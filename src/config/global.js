@@ -384,13 +384,13 @@ export default {
         },
         {
           nombre: 'Angela Navas Cáceres',
-          cargo: 'Expertas Técnica',
+          cargo: 'Experta Técnica',
           centro:
             'Centro de Formación de Talento humano en Salud- Regional Distrito Capital',
         },
         {
           nombre: 'Gina Carol Villate Calderón',
-          cargo: 'Expertas Técnica',
+          cargo: 'Experta Técnica',
           centro:
             'Centro de Formación de Talento humano en Salud - Regional Distrito Capital',
         },
@@ -412,7 +412,7 @@ export default {
       autores: [
         {
           nombre: 'Carmen Alicia Martínez Torres',
-          cargo: 'Diseñador <em>web</em>',
+          cargo: 'Diseñadora <em>web</em>',
           centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },
         {
