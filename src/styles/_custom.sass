@@ -3,18 +3,33 @@
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
     top: 20%
-    right: 10%
+    right: 4%
   &-2
-    animation: float1 2.8s ease-in-out infinite alternate
+    animation: girar 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
+    top: 60%
+    right: 80%
+  
+  &-3
+    position: absolute;
+    top: 17%;
+    right: 71%;
+    animation: girar 2.8s linear infinite;
 
 @keyframes float1
   0%
     transform: translateY(20px)
   100%
     transform: translateY(0px)
+
+@keyframes girar 
+  from 
+    transform: rotate(0deg);
+  
+  to 
+    transform: rotate(360deg);
+  
+
   
 ///////////CUSTOM BANNER PRINCIPAL E INTERNO/////////////
 .banner-principal .tarjeta
@@ -41,5 +56,228 @@ figcaption
 .banner-principal .tarjeta
   @media screen and (max-width: $bp-max-md)
     background-image: url("../assets/curso/portada/fondo-banner-principal-sm.png") !important
-  @media screen and (max-width: $bp-max-sm)
+  @media screen and (max-width: $bp-max-xs)
     background-image: url("../assets/curso/portada/fondo-banner-principal-xs.png") !important
+
+//////////Background_Color///////////
+.bg-color
+  &-1
+    background-color: #F1F3FB !important
+  &-2
+    background-color: #F1F6F9
+  &-3
+    background: linear-gradient(90deg,rgba(244, 244, 244, 1) 0%, rgba(255, 255, 255, 1) 100%)
+  &-4
+    background-color: #EDFBFA
+  &-5
+    background-color: #D9E8F9
+  &-white
+    background-color: white !important
+    border: 1px solid $lightest-gray
+  &-secundario
+    background-color: $color-secundario !important
+  &-sintesis
+    background-color: #F6F6F6
+
+///////Full Width Background///////////////////
+.bg-full-width
+  background-size: cover
+  background-repeat: no-repeat
+  background-position: bottom
+  margin-inline: -3.3rem
+  @media screen and (max-width: $bp-max-sm)
+    padding-left: 1.5rem
+    padding-right: 1.5rem
+.bg-full-width-2
+  background-size: contain
+  background-repeat: no-repeat
+  background-position: bottom
+  margin-inline: -3.3rem
+  @media screen and (max-width: $bp-max-sm)
+    padding-left: 1.5rem
+    padding-right: 1.5rem
+
+///////////////fondos/////////////////
+.bg-fondo
+  &-1
+    background-image: url("../assets/curso/bg1.png") !important
+    background-position: top
+  &-2
+    background-image: url("../assets/curso/bg2.png") !important
+    background-position: bottom
+  &-3
+    background-image: url("../assets/curso/bg3.png") !important
+    background-position: bottom
+  &-slider
+    background-image: url("../assets/curso/bg-slider.png") !important
+    background-position: bottom
+
+/////////IMG_100%_CAJON_MEDIO/////////
+.pst
+  position: relative
+  z-index: 2
+.banner-text
+  background-color: #FFFFFF
+  border-radius: 10px
+  padding: 50px
+  margin-top: -60px
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2); /* Sombra suave */
+  padding: 20px;
+  border-radius: 8px; /* Opcional, para bordes redondeados */
+
+  @media screen and (max-width: $bp-max-sm)
+    margin-top: -10px
+
+
+.bloque-texto-b.color-secundario:before
+  background-color: #DBF8F6 !important
+
+.bloque-texto-g.color-secundario
+  background-color: #DBF8F6
+
+/////////CUSTOM TABS-C//////////
+.tabs-c__header 
+  margin-bottom: 0
+.tabs-c__content-item
+  background-image: url("../assets/curso/bg3.png") !important
+  background-size: cover
+
+//////////CUSTOM BOTONES SLYDER-F/////////
+.slyder-f__btn
+  height: 35px
+  width: 35px
+  max-width: 35px
+  background-color: $color-acento-botones
+  border-radius: 50%
+  padding: 0 !important
+  margin: 0 auto
+  .fa-chevron-left
+    font-size: 20px
+  .fa-chevron-right
+    font-size: 20px
+  
+.slyder-f
+    align-items: center
+
+    .slyder-f__main
+      width: 70%
+
+      @media (min-width: 769px)
+        width: 80%
+      
+////////SOMBRA CAJON//////////
+.box-shadow
+  background-color: #ffffff;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1); /* Sombra suave */
+  padding: 20px;
+  border-radius: 8px; /* Opcional, para bordes redondeados */
+
+/////////////ACORDION/////////////
+.acordion__accion__btn--a
+  background-color: #FFD256 !important
+.acordion__activo
+  background-color: #E2E7F7 !important
+.acordion_titulo
+  color: #fff !important
+.acordion__titulo 
+  h3
+    color: $color-sistema-texto  !important
+.acordion__activo
+  .acordion__titulo 
+    h3
+      color: $color-sistema-texto !important
+    
+//////////////CUSTOM TABS-A/////////////
+.tabs-a.color-acento-botones .tabs-a__tab__selected 
+  background-color: #FFD256
+.tabs-a__tab
+  background-color: #F1F6F9
+.tarjeta.color-acento-botones--borde
+  background-color: #F1F6F9
+  border: solid 4px #F1F6F9
+  
+
+////////////AJUSTE TAMAÑO CONTERNEDOR IZQUIERO TABS-A//////////
+.tabs-a
+  @media (min-width: 1200px) 
+    .row
+      .col-xl-3 
+        flex: 0 0 auto
+        width: 45%
+      .col-xl-9
+        flex: 0 0 auto
+        width: 55%
+  @media (min-width: 992px) 
+    .row
+      .col-lg-4 
+        flex: 0 0 auto
+        width: 45%
+      .col-lg-8 
+        flex: 0 0 auto
+        width: 55%
+
+//////// Card hover ////////////
+.crd_hover_txt
+  position: relative  
+  padding: 0 !important
+  overflow: hidden !important  
+  &:hover    
+    .crd_hover_txt--body   
+      transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1) 
+      transform: translateY(0)
+      background-color: #F1F3FB
+      opacity: 0.8
+      h4
+        color: $color-sistema-texto
+
+  .crd_hover_txt--body
+    position: absolute
+    padding: 1.5rem
+    bottom: 0    
+    transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1)
+    transform: translateY(calc( 100% - 3.85rem ))
+    background-color: #F1F3FB
+    text-align: center
+
+  
+  @media (min-width:1200px) and (max-width:1400px)  
+    .crd_hover_txt--body
+      p
+        font-size: 0.85em
+
+///////////// CUSTOM LINEA DE TIEMPO D
+.linea-tiempo-d__item.row.linea-tiempo-d__item--selected
+  .col-auto.linea-tiempo-d__item__col-number
+    .linea-tiempo-d__item__number.tarjeta.tarjeta--gris
+      background-color: #FFD256 !important
+      color: $color-sistema-texto
+  .col
+    .linea-tiempo-d__item__content.tarjeta.tarjeta--gris
+      background-color: #E2E7F7
+
+/// non selected
+.linea-tiempo-d__item.row
+  .col-auto.linea-tiempo-d__item__col-number
+    .linea-tiempo-d__item__number.tarjeta.tarjeta--gris
+      background-color: #E2E7F7
+    .linea-tiempo-d__item__dots:after
+      border-left: 4px dotted #adb8c2 !important
+  .col
+    .linea-tiempo-d__item__content.tarjeta.tarjeta--gris
+      background-color: #F1F6F9
+
+.linea-tiempo-d__item__content__title
+  @media screen and ( max-width: $bp-max-xs )
+    height: 55px
+  
+//////////////CUSTON SLYDER-A////////
+.slyder-a__bullets__item 
+  background-color: #CDD5F2
+  border: #CDD5F2
+.slyder-a__bullets__item--active
+  background-color: #6F88DA
+.slyder-a__btn--atrs, .slyder-a__btn--sigt
+  background-color: #FFD256
+.slyder-a__bullets__item
+  @media screen and ( max-width: $bp-max-xs )
+    margin: 0 5px
