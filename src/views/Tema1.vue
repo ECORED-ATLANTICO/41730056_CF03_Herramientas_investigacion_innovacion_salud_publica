@@ -17,12 +17,12 @@
                   img(src="@/assets/curso/tema1/2.png", data-aos="zoom-in")
               .col-lg-7
                 .bg-color-4.p-4.p-lg-5
-                  p.mb-0(data-aos="fade-right") En el ámbito de la innovación en salud pública, comprender los elementos de la propuesta de valor y la construcción de un pitch efectivo es fundamental para transformar ideas en proyectos viables y con impacto. La propuesta de valor permite definir con claridad qué problema de salud se aborda, a quién beneficia la solución, qué la hace diferente y por qué genera resultados relevantes para las comunidades y los sistemas de salud. 
+                  p.mb-0(data-aos="fade-right") En el ámbito de la innovación en salud pública, comprender los elementos de la propuesta de valor y la construcción de un <em>pitch</em> efectivo es fundamental para transformar ideas en proyectos viables y con impacto. La propuesta de valor permite definir con claridad qué problema de salud se aborda, a quién beneficia la solución, qué la hace diferente y por qué genera resultados relevantes para las comunidades y los sistemas de salud. 
             .row.align-items-center.bg-color-sintesis.p-4
               .col-lg-auto.mb-3.mb-lg-0
                 img.d-lg-flex.d-none(src="@/assets/curso/tema1/3.svg", style="max-width: 90px").mx-auto
               .col-lg
-                p.mb-0 Por su parte, el pitch funciona como una herramienta estratégica de comunicación que sintetiza estos elementos de manera clara, persuasiva y basada en evidencia, facilitando la movilización de aliados, recursos y apoyo institucional. Ambos componentes son esenciales para impulsar iniciativas innovadoras que respondan a necesidades reales en salud pública. 
+                p.mb-0 Por su parte, el <em>pitch</em> funciona como una herramienta estratégica de comunicación que sintetiza estos elementos de manera clara, persuasiva y basada en evidencia, facilitando la movilización de aliados, recursos y apoyo institucional. Ambos componentes son esenciales para impulsar iniciativas innovadoras que respondan a necesidades reales en salud pública. 
           .col-lg-3.mb-3.mb-lg-0
             figure
               img(src="@/assets/curso/tema1/1.png", data-aos="zoom-in")
@@ -79,7 +79,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/tema1/6.png')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p.mb-0 Las herramientas para formular la propuesta de valor son fundamentales en procesos de innovación en salud pública, ya que permiten estructurar de manera clara y estratégica cómo una solución responde a una necesidad real de la población. Estas facilitan la identificación de problemas prioritarios, la comprensión profunda de los usuarios o comunidades, el análisis de beneficios esperados y la diferenciación frente a otras alternativas existentes. Además, ayudan a conectar la solución propuesta con resultados concretos en salud, eficiencia del sistema o bienestar social. Entre las mas comunes, pero mas completas tenemos las siguientes:
+            p.mb-0 Las herramientas para formular la propuesta de valor son fundamentales en procesos de innovación en salud pública, ya que permiten estructurar de manera clara y estratégica cómo una solución responde a una necesidad real de la población. Estas facilitan la identificación de problemas prioritarios, la comprensión profunda de los usuarios o comunidades, el análisis de beneficios esperados y la diferenciación frente a otras alternativas existentes. Además, ayudan a conectar la solución propuesta con resultados concretos en salud, eficiencia del sistema o bienestar social. Entre las más comunes, pero más completas tenemos las siguientes:
         
         .align-items-center.justify-content-star.mb-1
           .div.mb-3(data-aos="fade-left")
@@ -91,12 +91,12 @@
             figure
               img(src="@/assets/curso/tema1/7.png", data-aos="zoom-in")
           .col-lg-8
-            p El Value Proposition Canvas es un método desarrollado por Alexander Osterwalder cuyo propósito es definir la propuesta de valor de nuestra solución o iniciativa de innovación en salud. Consiste en una representación visual donde contrastamos las necesidades de nuestros usuarios con el producto o servicio que le ofrecemos. En esta, el usuario es el centro del análisis, por lo que debemos tener en cuenta que lo que sea que vayamos a ofrecerle, tenga sentido y cubra una necesidad en específico. 
+            p El <em>Value Proposition Canvas</em> es un método desarrollado por Alexander Osterwalder cuyo propósito es definir la propuesta de valor de nuestra solución o iniciativa de innovación en salud. Consiste en una representación visual donde contrastamos las necesidades de nuestros usuarios con el producto o servicio que le ofrecemos. En esta, el usuario es el centro del análisis, por lo que debemos tener en cuenta que lo que sea que vayamos a ofrecerle, tenga sentido y cubra una necesidad en específico. 
             .row.align-items-center.bg-color-3.p-4
               .col-lg-auto.mb-lg-0
                 img.d-lg-flex.d-none(src="@/assets/curso/tema1/8.svg").mx-auto
               .col-lg
-                p.mb-0 El lienzo del Value Proposition Canvas se divide en dos bloques principales, que son el bloque del usuario y el bloque del producto. Al desarrollar ambos, podemos validar si nuestra propuesta de valor tendrá éxito, o si por el contrario debemos replantearla.
+                p.mb-0 El lienzo del <em>Value Proposition Canvas</em> se divide en dos bloques principales, que son el bloque del usuario y el bloque del producto. Al desarrollar ambos, podemos validar si nuestra propuesta de valor tendrá éxito, o si por el contrario debemos replantearla.
 
         div.bg-color-7.tarjeta.p-3.d-inline-block.mb-5
           h3.mb-0.text-white Bloque del usuario o cliente:
@@ -114,10 +114,10 @@
               ul.lista-ul--color.ms-3
                 li.mb-3.d-flex
                   i.fas.fa-circle.fa-xs.mt-2
-                  | Problemas del usuario al desarrollar una determinada actividad o tareae.
+                  | Problemas del usuario al desarrollar una determinada actividad o tarea.
                 li.mb-3.d-flex
                   i.fas.fa-circle.fa-xs.mt-2
-                  | Motivaciones para llevar a cabo dicha actividad o tarea
+                  | Motivaciones para llevar a cabo dicha actividad o tarea.
                 li.mb-3.d-flex
                   i.fas.fa-circle.fa-xs.mt-2
                   | Necesidades con relación a por qué quiere realizar dicha actividad o tarea.
@@ -169,7 +169,7 @@
         figure
           img(src="@/assets/curso/tema1/12.png", data-aos="zoom-in")
       .col-lg-10
-        p.mb-0(data-aos="fade-right") El segundo bloque del Value Proposition Canvas corresponde al producto. Una vez se ha trabajado el perfil del usuario y se cuenta con la información organizada sobre sus necesidades, tareas, dolores y expectativas, es posible definir con mayor precisión qué producto o servicio puede responder a ese contexto. El propósito de este bloque es diseñar una solución que ayude al usuario a realizar sus tareas de forma más efectiva, que alivie sus molestias y frustraciones, y que a la vez le genere beneficios, mejoras o ganancias relevantes.
+        p.mb-0(data-aos="fade-right") El segundo bloque del <em>Value Proposition Canvas</em> corresponde al producto. Una vez se ha trabajado el perfil del usuario y se cuenta con la información organizada sobre sus necesidades, tareas, dolores y expectativas, es posible definir con mayor precisión qué producto o servicio puede responder a ese contexto. El propósito de este bloque es diseñar una solución que ayude al usuario a realizar sus tareas de forma más efectiva, que alivie sus molestias y frustraciones, y que a la vez le genere beneficios, mejoras o ganancias relevantes.
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-5.mb-3
@@ -181,7 +181,7 @@
             figure
               img.d-none.d-lg-flex(src="@/assets/curso/tema1/36.svg", data-aos="zoom-in")
           .col-lg
-            p.mb-0(data-aos="fade-right") Por esta razón, el Value Proposition Canvas es un método efectivo para desarrollar nuestra idea de innovación, ya que en lugar de desarrollar algo y luego buscar a quién podría servirle, el planteamiento es todo lo contrario. 
+            p.mb-0(data-aos="fade-right") Por esta razón, el <em>Value Proposition Canvas</em> es un método efectivo para desarrollar nuestra idea de innovación, ya que en lugar de desarrollar algo y luego buscar a quién podría servirle, el planteamiento es todo lo contrario. 
         p Primero evaluamos las necesidades del usuario y luego diseñamos un producto o servicio orientado a resolver el problema.
            
 
@@ -216,7 +216,7 @@
       .p-3.p-md-4(titulo="<em>Gains Creators</em> (Generadores de beneficios)")
         .row.justify-content-center.align-items-center
           .col-lg-6.mb-4.mb-md-0
-            p Son elementos del producto o servicio que generan beneficios concretos. Explican cómo la solución produce mejoras alineadas con expectativas, deseos y aspiraciones del usuario. Deben basarse en gains mínimos, esperados, deseados e inesperados, creando características que superen lo básico. Cada beneficio debe corresponder directamente a una ganancia valorada por el usuario.
+            p Son elementos del producto o servicio que generan beneficios concretos. Explican cómo la solución produce mejoras alineadas con expectativas, deseos y aspiraciones del usuario. Deben basarse en <em>gains</em> mínimos, esperados, deseados e inesperados, creando características que superen lo básico. Cada beneficio debe corresponder directamente a una ganancia valorada por el usuario.
           .col-lg-4.mb-3.mb-lg-0
             figure
               img(src='@/assets/curso/tema1/17.png', alt='Imagen de acompañamiento')
@@ -227,15 +227,15 @@
           .col-lg-auto.mb-3.mb-lg-0
             img.d-lg-flex.d-none(src="@/assets/curso/tema1/3.svg", style="max-width: 90px").mx-auto
           .col-lg
-            p.mb-0 Si se desea estructurar un Value Proposition Canvas, se puede apoyar en la plantilla o lienzo oficial, el cual reúne todas las secciones definidas por Osterwalder y sirve como guía visual para organizar el perfil del usuario y la propuesta de valor de manera coherente y centrada en las necesidades reales.
+            p.mb-0 Si se desea estructurar un <em>Value Proposition Canvas</em>, se puede apoyar en la plantilla o lienzo oficial, el cual reúne todas las secciones definidas por Osterwalder y sirve como guía visual para organizar el perfil del usuario y la propuesta de valor de manera coherente y centrada en las necesidades reales.
     
     .row.justify-content-center.align-items-center.z-2.mb-5
       .col-lg-10
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 1.
           span Lienzo del <em>Value Proposition Canvas</em>
-        img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema1/18.svg", alt="TEXTOALT")
-        img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema1/18-1.svg", alt="TEXTOALT")
+        img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema1/18.svg", alt="La figura muestra la estructura del lienzo del Value Proposition Canvas, y de cada uno de sus componentes.")
+        img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema1/18-1.svg", alt="La figura muestra la estructura del lienzo del Value Proposition Canvas, y de cada uno de sus componentes.")
         figcaption <strong>Fuente:</strong> Plataforma Strategyzer’s, n.d.
   
    
@@ -254,7 +254,7 @@
             .bloque-texto-b.color-secundario.p-4(data-aos="fade-up").mb-3
               .bloque-texto-b__texto
                 i.fas.fa-quote-left
-                p.mb-0 El Lean Canvas es una herramienta visual de una sola página diseñada para desarrollar, evaluar y validar modelos de negocio de manera rápida y ágil. Se utiliza especialmente en contextos de emprendimiento e innovación, ya que permite formular la lógica de una solución con base en el aprendizaje continuo y la experimentación, de acuerdo con los principios de la metodología Lean Startup. 
+                p.mb-0 El <em>Lean Canvas</em> es una herramienta visual de una sola página diseñada para desarrollar, evaluar y validar modelos de negocio de manera rápida y ágil. Se utiliza especialmente en contextos de emprendimiento e innovación, ya que permite formular la lógica de una solución con base en el aprendizaje continuo y la experimentación, de acuerdo con los principios de la metodología <em>Lean Startup</em>. 
                 i.fas.fa-quote-right
               .bloque-texto-d__autor 
                 .h5.mb-0 (Maurya, 2012)
@@ -298,8 +298,8 @@
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 2.
           span <em>Lean Canvas</em>
-        img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema1/25.svg", alt="TEXTOALT")
-        img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema1/25-1.svg", alt="TEXTOALT")
+        img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema1/25.svg", alt="Problema Los principales problemas o puntos críticos que enfrentan los usuarios. Incluye un subapartado: alternativas existentes. Describe cómo se resuelven estos problemas en la actualidad. Solución Los rasgos o características de la solución propuesta que resuelven los problemas. Propuesta de valor única Un mensaje claro que destaca el beneficio único y la diferenciación del producto o servicio. Segmento de usuario o clientes Los clientes o usuarios objetivo para quienes se está creando el valor. Canales Las vías de comunicación y distribución para llegar a los usuarios. Métricas claves Las métricas que indican el progreso y el éxito. Flujo de ingresos Cómo generará dinero el negocio Estructura de costos Los gastos más importantes para operar, tanto fijos como variables. Ventaja injusta o diferencial Una ventaja competitiva que no se puede copiar fácilmente.")
+        img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema1/25-1.svg", alt="Problema Los principales problemas o puntos críticos que enfrentan los usuarios. Incluye un subapartado: alternativas existentes. Describe cómo se resuelven estos problemas en la actualidad. Solución Los rasgos o características de la solución propuesta que resuelven los problemas. Propuesta de valor única Un mensaje claro que destaca el beneficio único y la diferenciación del producto o servicio. Segmento de usuario o clientes Los clientes o usuarios objetivo para quienes se está creando el valor. Canales Las vías de comunicación y distribución para llegar a los usuarios. Métricas claves Las métricas que indican el progreso y el éxito. Flujo de ingresos Cómo generará dinero el negocio Estructura de costos Los gastos más importantes para operar, tanto fijos como variables. Ventaja injusta o diferencial Una ventaja competitiva que no se puede copiar fácilmente. ")
         figcaption <strong>Fuente:</strong> Edit.org, n.d.
     
     div.bg-color-7.tarjeta.p-3.d-inline-block.mb-5
@@ -311,15 +311,15 @@
           img(src="@/assets/curso/tema1/26.png", data-aos="zoom-in")
       .col-lg-10
         p <b>Tema del Proyecto</b>: sistema de detección temprana de diabetes rural
-        p.mb-0 <b>Problema</b>: La falta de acceso y el diagnóstico tardío de la Diabetes Mellitus (DM) en comunidades rurales conllevan altas tasas de complicaciones y costos de atención crónica.
+        p.mb-0 <b>Problema</b>: la falta de acceso y el diagnóstico tardío de la Diabetes Mellitus (DM) en comunidades rurales conllevan altas tasas de complicaciones y costos de atención crónica.
 
     .row.justify-content-center.align-items-center.z-2.mb-5
       .col-lg-10
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 3.
           span <em>Lean Canvas</em> aplicado a la detección temprana de diabetes en zonas rurales
-        img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema1/27.svg", alt="TEXTOALT")
-        img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema1/27-1.svg", alt="TEXTOALT")
+        img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema1/27.svg", alt="La figura muestra un Lean Canvas diligenciado de un proyecto de sistema de detección temprana de diabetes rural; en cada uno de sus bloques.")
+        img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema1/27-1.svg", alt="La figura muestra un Lean Canvas diligenciado de un proyecto de sistema de detección temprana de diabetes rural; en cada uno de sus bloques.")
         figcaption <strong>Fuente:</strong> SENA, 2025.
     
     .bg-full-width.bg-fondo-1
@@ -341,7 +341,7 @@
         .row.justify-content-center.align-items-center.mb-5
           .col-lg-7.col-xl-5.mb-3.mb-lg-0
             .bg-color-5.p-4.p-lg-5.tarjeta 
-              p.mb-0 Otro elemento destacado del Lean Canvas es la claridad sobre quién financia o adopta la solución. El ejemplo muestra que el usuario final (el paciente) no siempre coincide con el usuario que paga. Aquí, el financiamiento proviene principalmente del sistema de salud, lo que cambia la lógica de valor y la estrategia de sostenibilidad.
+              p.mb-0 Otro elemento destacado del <em>Lean Canvas</em> es la claridad sobre quién financia o adopta la solución. El ejemplo muestra que el usuario final (el paciente) no siempre coincide con el usuario que paga. Aquí, el financiamiento proviene principalmente del sistema de salud, lo que cambia la lógica de valor y la estrategia de sostenibilidad.
           .col-md-8.col-lg-5.col-xl-3.mb-3.mb-xl-0
             figure
               img(src="@/assets/curso/tema1/30.png", data-aos="zoom-in")
@@ -366,7 +366,7 @@
         
         .row.justify-content-center.align-items-center.z-2.mb-5
           .col-lg-10(data-aos="fade-up")
-            p.banner-text Un <em>pitch</em> de proyectos es una presentación concisa y convincente para vender una idea, producto o negocio, cuya estructura clave incluye una introducción, la descripción del problema que resuelve, la solución propuesta, la propuesta de valor, el modelo de negocio y un llamado a la acción. Los elementos clave son la claridad, la concisión, la demostración del valor para el usuario o inversor, y una presentación profesional y apasionada (Ball, 2025)
+            p.banner-text Un <em>pitch</em> de proyectos es una presentación concisa y convincente para vender una idea, producto o negocio, cuya estructura clave incluye una introducción, la descripción del problema que resuelve, la solución propuesta, la propuesta de valor, el modelo de negocio y un llamado a la acción. Los elementos clave son la claridad, la concisión, la demostración del valor para el usuario o inversor, y una presentación profesional y apasionada (Ball, 2025).
         
         .align-items-center.justify-content-star.mb-1
           .div.mb-3(data-aos="fade-left")
@@ -387,7 +387,7 @@
               
               p(numero="4" titulo="Diseño visual (<em>pitch deck</em>)") Si se utiliza una presentación visual, esta debe ser limpia, profesional y fácil de leer, con imágenes de apoyo en lugar de párrafos largos.
 
-              p(numero="5" titulo="Enfoque en el publico") Adaptar el mensaje al interlocutor. Un <em>pitch</em> para inversores será diferente a uno para usuarios.
+              p(numero="5" titulo="Enfoque en el público") Adaptar el mensaje al interlocutor. Un <em>pitch</em> para inversores será diferente a uno para usuarios.
               
               p(numero="6" titulo="Práctica y ensayo") Un buen <em>pitch</em> se basa en la práctica. Se debe ensayar el discurso varias veces para dominar el tiempo y los puntos clave.
     
@@ -427,7 +427,7 @@
           //- estas clases tambien tienen un modificador --borde
           .tarjeta.color-acento-botones.bg-color-4
             .p-4
-              p.mb-0 Evidenciar beneficios con datos relacionados con resultados en salud y eficiencia del sistema.t.
+              p.mb-0 Evidenciar beneficios con datos relacionados con resultados en salud y eficiencia del sistema.
       .col-md-6.col-lg-3.mb-3.mb-lg-0
         .tarjeta-avatar
           img(src='@/assets/curso/tema1/37.svg' alt='AvatarTop')
@@ -436,7 +436,7 @@
           //- estas clases tambien tienen un modificador --borde
           .tarjeta.color-acento-botones.bg-color-4
             .p-4
-              p.mb-0 Adaptar los mensajes al lenguaje y prioridades de cada actor 
+              p.mb-0 Adaptar los mensajes al lenguaje y prioridades de cada actor. 
       .col-md-6.col-lg-3.mb-3.mb-lg-0
         .tarjeta-avatar
           img(src='@/assets/curso/tema1/37.svg' alt='AvatarTop')
@@ -457,7 +457,7 @@
               p.mb-0 Humanizar la narrativa, resaltando que la innovación mejora la vida de las personas, no solo indicadores técnicos.
     
     .cajon.color-acento-contenido.p-4.mb-4
-      p.mb-0 De este modo, un Pitch de innovación en salud debe centrarse menos en la sofisticación de la solución y más en cómo y por qué genera valor social y sanitario, sustento clave para impulsar su adopción y escalamiento dentro del sistema de salud colombiano.
+      p.mb-0 De este modo, un <em>Pitch</em> de innovación en salud debe centrarse menos en la sofisticación de la solución y más en cómo y por qué genera valor social y sanitario, sustento clave para impulsar su adopción y escalamiento dentro del sistema de salud colombiano.
       
 
  

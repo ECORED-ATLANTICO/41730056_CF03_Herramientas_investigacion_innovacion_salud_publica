@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 2
-      h1 Tecnologías de la información y comunicación (TIC) aplicadas al análisis y visualización de datos en salud pública
+      h1 Tecnologías de la información y las comunicaciones (TIC) aplicadas al análisis y visualización de datos en salud pública
     
     .bg-full-width.bg-fondo-1
       .px-5
@@ -28,10 +28,10 @@
             .bloque-texto-b.color-secundario.p-4(data-aos="fade-up").mb-3
               .bloque-texto-b__texto
                 i.fas.fa-quote-left
-                p.mb-0 Las TICs han sido reconocidas como herramientas estratégicas para optimizar procesos internos y fortalecer las relaciones tanto internas como externas, facilitando la conectividad, la eficiencia y la toma de decisiones en salud basadas en datos 
+                p.mb-0 Las TIC han sido reconocidas como herramientas estratégicas para optimizar procesos internos y fortalecer las relaciones tanto internas como externas, facilitando la conectividad, la eficiencia y la toma de decisiones en salud basadas en datos 
                 i.fas.fa-quote-right
               .bloque-texto-d__autor 
-                .h5.mb-0 (OMS, 2021)
+                .h5.mb-0 (OMS, 2021).
 
     .row.mb-5.justify-content-center.align-items-center
       .col-lg-4.mb-3.mb-lg-0
@@ -42,9 +42,9 @@
           .col-lg-auto.mb-lg-0
             img.d-lg-flex.d-none(src="@/assets/curso/tema2/4.svg", style="max-width: 90px").mx-auto
           .col-lg
-            p.mb-0 La tecnología influye en muchas etapas distintas de la toma de decisiones. Por ejemplo, influye en el momento de obtener información, ya que las personas accedemos constantemente a motores de búsqueda como Google, o Wikipedia; y esta información obtenida influye en los siguientes pasos hasta finalmente hacer una elección. Nos ayuda a filtrar, analizar y procesar la información, así como a encontrar alternativas y evaluarlas, ya sea de forma consciente o inconsciente.
+            p.mb-0 La tecnología influye en muchas etapas distintas de la toma de decisiones. Por ejemplo, influye en el momento de obtener información, ya que las personas accedemos constantemente a motores de búsqueda como <em>Google</em>, o <em>Wikipedia</em>; y esta información obtenida influye en los siguientes pasos hasta finalmente hacer una elección. Nos ayuda a filtrar, analizar y procesar la información, así como a encontrar alternativas y evaluarlas, ya sea de forma consciente o inconsciente.
     
-    p Las ventajas del uso de las TIC para la toma de decisiones la podríamos desglosar de la siguiente manera:  
+    p Las ventajas del uso de las TIC para la toma de decisiones las podríamos desglosar de la siguiente manera:  
 
     .bg-full-width.bg-fondo-1
       .px-5
@@ -75,7 +75,7 @@
         div.bg-color-7.tarjeta.p-3.d-inline-block.mb-5
           h3.mb-0.text-white Sistemas de información en salud:
         
-        p.mb-5 Los sistemas de información en salud (SIS) son el conjunto de herramientas tecnológicas y procesos para recolectar, procesar, analizar y utilizar datos del sector salud. Su propósito principal es apoyar la toma de decisiones estratégicas, mejorar la calidad de la atención médica, optimizar la gestión de recursos y fortalecer la salud pública mediante la generación de información oportuna y veraz (OPS, Organizacion Panamericana de la salud, s.f.)
+        p.mb-5 Los sistemas de información en salud (SIS) son el conjunto de herramientas tecnológicas y procesos para recolectar, procesar, analizar y utilizar datos del sector salud. Su propósito principal es apoyar la toma de decisiones estratégicas, mejorar la calidad de la atención médica, optimizar la gestión de recursos y fortalecer la salud pública mediante la generación de información oportuna y veraz (OPS, Organizacion Panamericana de la salud, s.f.).
     
     .bg-full-width.bg-fondo-3.mb-5
       .px-4.px-md-5
@@ -125,16 +125,16 @@
             ul.lista-ul--color.ms-3
               li.mb-3.d-flex
                 i.fas.fa-circle.fa-xs.mt-2
-                p.mb-0 <strong>Orientar y planificar</strong>: Proporciona la información necesaria para la orientación y planificación de las políticas y acciones de salud pública.
+                p.mb-0 <strong>Orientar y planificar</strong>: proporciona la información necesaria para la orientación y planificación de las políticas y acciones de salud pública.
               li.mb-3.d-flex
                 i.fas.fa-circle.fa-xs.mt-2
-                p.mb-0 <strong>Prevenir y controlar</strong>: Permite tomar decisiones para prevenir y controlar enfermedades y factores de riesgo.
+                p.mb-0 <strong>Prevenir y controlar</strong>: permite tomar decisiones para prevenir y controlar enfermedades y factores de riesgo.
               li.mb-3.d-flex
                 i.fas.fa-circle.fa-xs.mt-2
-                p.mb-0 <strong>Seguimiento y evaluación</strong>: Facilita el seguimiento y la evaluación de las intervenciones y programas de salud.
+                p.mb-0 <strong>Seguimiento y evaluación</strong>: facilita el seguimiento y la evaluación de las intervenciones y programas de salud.
               li.mb-3.d-flex
                 i.fas.fa-circle.fa-xs.mt-2
-                p.mb-0 <strong>Optimizar recursos</strong>: Ayuda a racionalizar y optimizar el uso de los recursos disponibles. 
+                p.mb-0 <strong>Optimizar recursos</strong>: ayuda a racionalizar y optimizar el uso de los recursos disponibles. 
           div(titulo="VESPA (Sistema para la vigilancia de las sustancias psicoactivas)").ms-4
             .row.mb-3.justify-content-center.align-items-center
               .col-lg-auto.mb-3.mb-lg-0
@@ -163,19 +163,19 @@
             ul.lista-ul--color.ms-3
               li.mb-3.d-flex
                 i.fas.fa-circle.fa-xs.mt-2
-                p.mb-0 <strong>Propósito</strong>: Recolectar datos sobre daños a la salud intencionales (ej: agresiones, suicidios) y no intencionales (ej: accidentes de tráfico, caídas) para informar la toma de decisiones en salud pública.
+                p.mb-0 <strong>Propósito</strong>: recolectar datos sobre daños a la salud intencionales (ej: agresiones, suicidios) y no intencionales (ej: accidentes de tráfico, caídas) para informar la toma de decisiones en salud pública.
               li.mb-3.d-flex
                 i.fas.fa-circle.fa-xs.mt-2
-                p.mb-0 <strong>Función</strong>: Identificar la carga de enfermedad, el riesgo y las tendencias de las lesiones para poder implementar estrategias efectivas de prevención y control.
+                p.mb-0 <strong>Función</strong>: identificar la carga de enfermedad, el riesgo y las tendencias de las lesiones para poder implementar estrategias efectivas de prevención y control.
               li.mb-3.d-flex
                 i.fas.fa-circle.fa-xs.mt-2
-                p.mb-0 <strong>Fuentes de datos</strong>: Utiliza diversas fuentes, como los registros del Sistema de Vigilancia en Salud Pública (SIVIGILA), Registros Individuales de Prestación de Servicios (RIPS) y registros de mortalidad.
+                p.mb-0 <strong>Fuentes de datos</strong>: utiliza diversas fuentes, como los registros del Sistema de Vigilancia en Salud Pública (SIVIGILA), Registros Individuales de Prestación de Servicios (RIPS) y registros de mortalidad.
               li.mb-3.d-flex
                 i.fas.fa-circle.fa-xs.mt-2
-                p.mb-0 <strong>Alcance</strong>: Abarca una amplia gama de eventos, incluyendo lesiones por exposición laboral, accidentes de consumo, procedimientos estéticos, traumatismos, envenenamientos y agresiones.
+                p.mb-0 <strong>Alcance</strong>: abarca una amplia gama de eventos, incluyendo lesiones por exposición laboral, accidentes de consumo, procedimientos estéticos, traumatismos, envenenamientos y agresiones.
               li.mb-3.d-flex
                 i.fas.fa-circle.fa-xs.mt-2
-                p.mb-0 <strong>Importancia</strong>: Permite orientar acciones de prevención y control, mejorar la atención sanitaria y reducir los costos económicos y sociales asociados a las lesiones. 
+                p.mb-0 <strong>Importancia</strong>: permite orientar acciones de prevención y control, mejorar la atención sanitaria y reducir los costos económicos y sociales asociados a las lesiones. 
             h4 Ejemplos de su aplicación:
             .row.mb-3.justify-content-center.align-items-center
               .col-auto.mb-3.mb-lg-0
@@ -185,13 +185,13 @@
                 ul.lista-ul--color.ms-3
                   li.mb-3.d-flex
                     i.fas.fa-circle.fa-xs.mt-2
-                    p.mb-0 <strong>Vigilancia de accidentes laborales</strong>: Permite identificar patrones de riesgo en menores de 18 años expuestos a condiciones de trabajo peligrosas.
+                    p.mb-0 <strong>Vigilancia de accidentes laborales</strong>: permite identificar patrones de riesgo en menores de 18 años expuestos a condiciones de trabajo peligrosas.
                   li.mb-3.d-flex
                     i.fas.fa-circle.fa-xs.mt-2
-                    p.mb-0 <strong>Análisis de la carga de enfermedad</strong>: Estudios utilizan datos del LCE para medir el impacto de las lesiones en la población, calculando variables como los Años de Vida Perdidos por Discapacidad (AVD) o por Muerte Prematura (AVPM).
+                    p.mb-0 <strong>Análisis de la carga de enfermedad</strong>: estudios utilizan datos del LCE para medir el impacto de las lesiones en la población, calculando variables como los Años de Vida Perdidos por Discapacidad (AVD) o por Muerte Prematura (AVPM).
                   li.mb-3.d-flex
                     i.fas.fa-circle.fa-xs.mt-2
-                    p.mb-0 <strong>Monitoreo de eventos específicos</strong>: Se puede utilizar para dar seguimiento a la incidencia de lesiones relacionadas con procedimientos estéticos o accidentes específicos.
+                    p.mb-0 <strong>Monitoreo de eventos específicos</strong>: se puede utilizar para dar seguimiento a la incidencia de lesiones relacionadas con procedimientos estéticos o accidentes específicos.
           div(titulo="SISVECOS (Sistema para la vigilancia de la conducta suicida").ms-4
             .row.mb-3.justify-content-center.align-items-center
               .col-lg-auto.mb-3.mb-lg-0
@@ -215,7 +215,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/tema2/20.png')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p.mb-0 Las plataformas de visualización son softwares o aplicaciones que permiten a los usuarios crear representaciones gráficas de datos para hacerlos más fáciles de entender e interpretar. Transforman grandes y complejos conjuntos de datos en gráficos, tablas y paneles interactivos que ayudan a identificar patrones, tendencias y tomar decisiones (Adelusi, 2025).
+            p.mb-0 Las plataformas de visualización son <em>softwares</em> o aplicaciones que permiten a los usuarios crear representaciones gráficas de datos para hacerlos más fáciles de entender e interpretar. Transforman grandes y complejos conjuntos de datos en gráficos, tablas y paneles interactivos que ayudan a identificar patrones, tendencias y tomar decisiones (Adelusi, 2025).
         
         div.bg-color-7.tarjeta.p-3.d-inline-block.mb-5
           h3.mb-0.text-white Características principales:
@@ -254,7 +254,7 @@
               .tarjeta.color-acento-botones.bg-color-4
                 .p-4
                   h5 Inteligencia empresarial (<em>Business Intelligence</em>)
-                  p.mb-0 monitorear métricas clave de rendimiento (<em>KPIs</em>).
+                  p.mb-0 monitorear métricas clave de rendimiento (KPIs).
           .col-md-6.col-lg-3.mb-3.mb-lg-0
             .tarjeta-avatar
               img(src='@/assets/curso/tema2/27.svg' alt='AvatarTop')
@@ -268,31 +268,31 @@
               .tarjeta.color-acento-botones.bg-color-4
                 .p-4
                   h5 Diseño de productos
-                  p.mb-0 Explorar el comportamiento de los usuarios.a.
+                  p.mb-0 Explorar el comportamiento de los usuarios.
           .col-md-6.col-lg-3.mb-3.mb-lg-0
             .tarjeta-avatar
               img(src='@/assets/curso/tema2/27.svg' alt='AvatarTop')
               .tarjeta.color-acento-botones.bg-color-4
                 .p-4
-                  h5 Informes y dashboards
+                  h5 Informes y <em>dashboards</em>
                   p.mb-0 Combinar múltiples visualizaciones en una sola pantalla interactiva.
     
     img(src="@/assets/curso/tema2/28.png", alt="Imagen decorativa")
     
     .row.justify-content-center.align-items-center.z-2.mb-5
       .col-lg-10(data-aos="fade-up")
-        p.banner-text Power BI, Tableau, y Qlik son las principales plataformas de visualización de datos, cada una con fortalezas específicas, a continuación, se detallan cada una de ellas (Keyrus, 2023): 
+        p.banner-text <em>Power BI</em>, <em>Tableau</em>, y <em>Qlik</em> son las principales plataformas de visualización de datos, cada una con fortalezas específicas, a continuación, se detallan cada una de ellas (Keyrus, 2023): 
     
     .row.align-items-center.justify-content-center
       .col-lg-10.mb-3.mb-lg-0
         AcordionA(tipo="a" clase-tarjeta="tarjeta bg-color-2")
-          div(titulo="SIVIGILA").ms-4
+          div(titulo="<em>POWER BI</em>").ms-4
             .row.mb-3.justify-content-center.align-items-center
               .col-auto.mb-3.mb-lg-0
                 figure
                   img(src="@/assets/curso/tema2/29.png")
               .col-lg
-                p.mb-0  Es una herramienta de inteligencia empresarial desarrollada por Microsoft. Permite a las organizaciones conectarse a diversas fuentes de datos, crear visualizaciones interactivas y paneles de control, y tomar decisiones informadas basadas en datos. Es ideal para una rápida integración con Microsoft Office y para usuarios empresariales.
+                p.mb-0  Es una herramienta de inteligencia empresarial desarrollada por Microsoft. Permite a las organizaciones conectarse a diversas fuentes de datos, crear visualizaciones interactivas y paneles de control, y tomar decisiones informadas basadas en datos. Es ideal para una rápida integración con <em>Microsoft Office</em> y para usuarios empresariales.
             h4 Características: 
             .row.mb-3
               .col-lg-6.mb-3.mb-lg-0
@@ -339,14 +339,14 @@
                     p.mb-0 Interfaz de usuario intuitiva y amigable.
                   li.mb-3.d-flex
                     i.fas.fa-circle.fa-xs.mt-2
-                    p.mb-0 Ofrece una versión gratuita (Power BI Desktop) y opciones de licencia flexibles.
+                    p.mb-0 Ofrece una versión gratuita (<em>Power BI Desktop</em>) y opciones de licencia flexibles.
                   li.mb-3.d-flex
                     i.fas.fa-circle.fa-xs.mt-2
                     p.mb-0 Amplia biblioteca de conectores de datos.
                   li.mb-3.d-flex
                     i.fas.fa-circle.fa-xs.mt-2
                     p.mb-0 Escalabilidad y opciones de implementación en la nube o local.
-          div(titulo="TABLEAU").ms-4
+          div(titulo="<em>TABLEAU</em>").ms-4
             .row.mb-3.justify-content-center.align-items-center
               .col-auto.mb-3.mb-lg-0
                 figure
@@ -365,7 +365,7 @@
                     p.mb-0 Tableau es conocido por su potente capacidad de visualización y análisis de datos.
                   li.mb-3.d-flex
                     i.fas.fa-circle.fa-xs.mt-2
-                    p.mb-0 Ofrece una amplia gama de visualizaciones y gráficos interactivos..
+                    p.mb-0 Ofrece una amplia gama de visualizaciones y gráficos interactivos.
                   li.mb-3.d-flex
                     i.fas.fa-circle.fa-xs.mt-2
                     p.mb-0 Permite la creación de informes y paneles de control altamente personalizables.
@@ -406,15 +406,15 @@
                   .tarjeta.tarjeta--azul.bg-color-2
                     .p-3
                       p.mb-0 Ofrece opciones de implementación en la nube o local. 
-          div(titulo="QLIK").ms-4
+          div(titulo="<em>QLIK</em>").ms-4
             .row.mb-3.justify-content-center.align-items-center
               .col-auto.mb-3.mb-lg-0
                 figure
                   img(src="@/assets/curso/tema2/34.png")
               .col-lg
-                p.mb-0  Es una de las plataformas líderes en Business Intelligence (BI) y análisis de datos que proporciona a las organizaciones las herramientas necesarias para explorar, visualizar y analizar sus datos de manera efectiva. se Enfoca en el modelado de datos asociativo para análisis complejos. 
+                p.mb-0  Es una de las plataformas líderes en <em>Business Intelligence</em> (BI) y análisis de datos que proporciona a las organizaciones las herramientas necesarias para explorar, visualizar y analizar sus datos de manera efectiva. se Enfoca en el modelado de datos asociativo para análisis complejos. 
             h4 Características: 
-            p Qlik es conocido por su enfoque en la asociatividad de datos, lo que permite a los usuarios explorar datos de manera intuitiva. Ofrece productos como QlikView y Qlik Sense para visualización y análisis de datos. 
+            p Qlik es conocido por su enfoque en la asociatividad de datos, lo que permite a los usuarios explorar datos de manera intuitiva. Ofrece productos como <em>QlikView</em> y <em>Qlik Sense</em> para visualización y análisis de datos. 
             h5 Ventajas
             .row.mb-3.justify-content-center.align-items-center
               .col-lg
@@ -467,7 +467,7 @@
               .col-lg-auto.mb-3.mb-lg-0
                 img.d-none.d-lg-flex(src="@/assets/curso/tema2/37.svg", style="max-width: 90px").mx-auto
               .col-lg
-                p.mb-0 <strong>Ejemplo</strong>: Un enfermero puede acceder a la historia clínica completa de un paciente, incluyendo vacunas y medicamentos, antes de su primera consulta, gracias a la interoperabilidad. 
+                p.mb-0 <strong>Ejemplo</strong>: un enfermero puede acceder a la historia clínica completa de un paciente, incluyendo vacunas y medicamentos, antes de su primera consulta, gracias a la interoperabilidad. 
       .p-3.p-md-4(titulo="Gobernanza de datos en salud")
         .row.justify-content-center.align-items-center.mb-3
           .col-lg-6.mb-4.mb-md-0
@@ -525,12 +525,12 @@
         figure
           img(src="@/assets/curso/tema2/40.png", data-aos="zoom-in")
       .col-lg-8
-        p La seguridad de los datos es un proceso continuo que implica identificar y proteger los datos reforzando los controles de hardware y software que rigen el uso, el movimiento y el almacenamiento de los datos. Para proteger su infraestructura de TI, es necesario mejorar la visibilidad de los datos y las estrategias de seguridad implementadas en un doble enfoque, es decir, estrategias centradas en los datos y centradas en el usuario.  
+        p La seguridad de los datos es un proceso continuo que implica identificar y proteger los datos reforzando los controles de <em>hardware</em> y <em>software</em> que rigen el uso, el movimiento y el almacenamiento de los datos. Para proteger su infraestructura de TI, es necesario mejorar la visibilidad de los datos y las estrategias de seguridad implementadas en un doble enfoque, es decir, estrategias centradas en los datos y centradas en el usuario.  
         .row.align-items-center.bg-color-3.p-4
           .col-lg-auto.mb-3.mb-lg-0
             img.d-lg-flex.d-none(src="@/assets/curso/tema2/41.svg").mx-auto
           .col-lg
-            p.mb-0 Las buenas prácticas en protección de datos incluyen medidas técnicas como usar contraseñas seguras, cifrar información y actualizar software, y medidas de comportamiento como no compartir datos sin autorización, bloquear el equipo al ausentarse, destruir documentos de forma segura y capacitarse continuamente. La gestión de datos también requiere minimizar la recopilación, limitar el almacenamiento y garantizar la confidencialidad, integridad y disponibilidad de la información. 
+            p.mb-0 Las buenas prácticas en protección de datos incluyen medidas técnicas como usar contraseñas seguras, cifrar información y actualizar <em>software</em>, y medidas de comportamiento como no compartir datos sin autorización, bloquear el equipo al ausentarse, destruir documentos de forma segura y capacitarse continuamente. La gestión de datos también requiere minimizar la recopilación, limitar el almacenamiento y garantizar la confidencialidad, integridad y disponibilidad de la información. 
     
     div.bg-color-7.tarjeta.p-3.d-inline-block.mb-5
       h3.mb-0.text-white Medidas técnicas y de seguridad:

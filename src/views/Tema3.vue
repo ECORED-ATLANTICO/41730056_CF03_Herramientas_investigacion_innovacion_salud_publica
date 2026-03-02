@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 3
-      h1 Tendencias y casos de éxito en inteligencia artificial (IA), Big Data, salud digital, medicina de precisión y analítica predictiva en salud pública
+      h1 Tendencias y casos de éxito en Inteligencia Artificial (IA), <em>Big Data</em>, salud digital, medicina de precisión y analítica predictiva en salud pública
     
     .bg-full-width.bg-fondo-1
       .px-5
@@ -13,7 +13,7 @@
         
         .row.justify-content-center.align-items-center.z-2
           .col-lg-10(data-aos="fade-up")
-            p.banner-text La transformación digital está redefiniendo la forma en que los sistemas de salud pública generan, analizan y aplican conocimiento. Tecnologías como la inteligencia artificial, el Big Data, la salud digital y la medicina de precisión permiten identificar patrones, anticipar riesgos y personalizar intervenciones sanitarias. Estas herramientas no solo amplían la capacidad de respuesta ante emergencias o epidemias, sino que fortalecen la toma de decisiones basada en evidencia, la eficiencia de los servicios y la equidad en el acceso. Analizar las tendencias y casos de éxito en estas áreas permite comprender cómo la innovación tecnológica puede convertirse en un motor clave para mejorar la salud poblacional en América Latina. 
+            p.banner-text La transformación digital está redefiniendo la forma en que los sistemas de salud pública generan, analizan y aplican conocimiento. Tecnologías como la Inteligencia Artificial, el <em>Big Data</em>, la salud digital y la medicina de precisión permiten identificar patrones, anticipar riesgos y personalizar intervenciones sanitarias. Estas herramientas no solo amplían la capacidad de respuesta ante emergencias o epidemias, sino que fortalecen la toma de decisiones basada en evidencia, la eficiencia de los servicios y la equidad en el acceso. Analizar las tendencias y casos de éxito en estas áreas permite comprender cómo la innovación tecnológica puede convertirse en un motor clave para mejorar la salud poblacional en América Latina. 
         
         separador
         
@@ -31,7 +31,7 @@
                   img(src="@/assets/curso/tema3/2.png", data-aos="zoom-in")
               .col-lg-8
                 .bg-color-9.p-4.p-lg-5
-                  p.mb-0 La inteligencia artificial (IA) y el Big Data están transformando los enfoques tradicionales de vigilancia y respuesta en salud pública, al permitir analizar grandes volúmenes de información en tiempo real, identificar patrones epidemiológicos emergentes y generar alertas tempranas que fortalecen la toma de decisiones basada en evidencia. 
+                  p.mb-0 La Inteligencia Artificial (IA) y el <em>Big Data</em> están transformando los enfoques tradicionales de vigilancia y respuesta en salud pública, al permitir analizar grandes volúmenes de información en tiempo real, identificar patrones epidemiológicos emergentes y generar alertas tempranas que fortalecen la toma de decisiones basada en evidencia. 
             .row.align-items-center.bg-color-sintesis.p-4
               .col-lg-auto.mb-lg-0
                 img.d-lg-flex.d-none(src="@/assets/curso/tema3/4.svg").mx-auto
@@ -61,7 +61,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/tema3/7.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 La combinación de ambas herramientas ha fortalecido la capacidad predictiva y de respuesta epidemiológica. En Colombia, por ejemplo, se aplicaron modelos de IA para monitorear la propagación del COVID-19 y variables ambientales, lo que permitió identificar focos de contagio y planificar intervenciones preventivas. En Brasil y México, la IA y el <em>Big data</em> se han extendido hacia la farmacovigilancia y la gestión hospitalaria, optimizando la detección de reacciones adversas a medicamentos y la eficiencia operativa (Pro Pharma Research Organization, s.f.) 
+        p.mb-0 La combinación de ambas herramientas ha fortalecido la capacidad predictiva y de respuesta epidemiológica. En Colombia, por ejemplo, se aplicaron modelos de IA para monitorear la propagación del COVID-19 y variables ambientales, lo que permitió identificar focos de contagio y planificar intervenciones preventivas. En Brasil y México, la IA y el <em>Big data</em> se han extendido hacia la farmacovigilancia y la gestión hospitalaria, optimizando la detección de reacciones adversas a medicamentos y la eficiencia operativa (Pro Pharma Research Organization, s.f.).
     
     .row.justify-content-center
       .col-lg-10
@@ -70,13 +70,13 @@
             figure
               img(src="@/assets/curso/tema3/8.svg", data-aos="zoom-in")
           .col-lg-9.order-lg-1
-            p.mb-0(data-aos="fade-right") Sin embargo, su implementación enfrenta retos estructurales: la fragmentación de los sistemas de información, la falta de marcos éticos y de protección de datos sensibles, y la escasez de talento digital especializado (OPS, Organización Panamericana de la salud, 2025) A pesar de ello, sus ventajas son evidentes: detección temprana de brotes, mejor asignación de recursos, generación de evidencia local y mayor equidad sanitaria. Como destacan Khedkar y Sahay (2019), la revolución de la información en salud, impulsada por la IA y la analítica predictiva, está haciendo posible sistemas más eficientes, preventivos y equitativos.  
+            p.mb-0(data-aos="fade-right") Sin embargo, su implementación enfrenta retos estructurales: la fragmentación de los sistemas de información, la falta de marcos éticos y de protección de datos sensibles, y la escasez de talento digital especializado (OPS, Organización Panamericana de la Salud, 2025) A pesar de ello, sus ventajas son evidentes: detección temprana de brotes, mejor asignación de recursos, generación de evidencia local y mayor equidad sanitaria. Como destacan Khedkar y Sahay (2019), la revolución de la información en salud, impulsada por la IA y la analítica predictiva, está haciendo posible sistemas más eficientes, preventivos y equitativos.  
 
         .row.align-items-center.bg-color-sintesis.p-4
           .col-lg-auto.mb-lg-0
             img.d-none.d-lg-flex(src="@/assets/curso/tema3/4.svg", style="max-width: 90px").mx-auto
           .col-lg
-            p.mb-0 De acuerdo con la (OMS & BID, 2024), cuando los sistemas de salud cuentan con marcos técnicos, éticos y de gobernanza adecuados, la IA puede anticipar, actuar y aprender de forma continua ante riesgos emergentes. En síntesis, IA y Big Data no son solo tecnologías, sino habilitadores estratégicos de la innovación sanitaria. 
+            p.mb-0 De acuerdo con la (OMS & BID, 2024), cuando los sistemas de salud cuentan con marcos técnicos, éticos y de gobernanza adecuados, la IA puede anticipar, actuar y aprender de forma continua ante riesgos emergentes. En síntesis, IA y <em>Big Data</em> no son solo tecnologías, sino habilitadores estratégicos de la innovación sanitaria. 
     
     separador
     
@@ -124,7 +124,7 @@
         figure
           img(src="@/assets/curso/tema3/13.png", data-aos="zoom-in")
       .col-lg-10
-        p.mb-0(data-aos="fade-right") Adicionalmente, las soluciones de monitoreo remoto y tableros digitales (dashboards) permiten registrar variables fisiológicas y visualizar indicadores epidemiológicos en tiempo real. Según Schulze et al. (2023), estos tableros facilitan la vigilancia, la transparencia y la comunicación de riesgos, mejorando la toma de decisiones tanto institucional como comunitaria. No obstante, su éxito depende de garantizar interoperabilidad, protección de datos personales y alfabetización digital en salud. 
+        p.mb-0(data-aos="fade-right") Adicionalmente, las soluciones de monitoreo remoto y tableros digitales (<em>dashboards</em>) permiten registrar variables fisiológicas y visualizar indicadores epidemiológicos en tiempo real. Según Schulze et al. (2023), estos tableros facilitan la vigilancia, la transparencia y la comunicación de riesgos, mejorando la toma de decisiones tanto institucional como comunitaria. No obstante, su éxito depende de garantizar interoperabilidad, protección de datos personales y alfabetización digital en salud. 
     
     .bg-full-width.bg-fondo-1
       .px-5
@@ -139,7 +139,7 @@
               img(src="@/assets/curso/tema3/14.png", data-aos="zoom-in")
           .col-lg-8
             .bg-color-4.p-4.px-lg-5.py-lg-4
-              p.mb-0 La medicina de precisión adapta las intervenciones médicas a las características genéticas, ambientales y sociales de cada persona o población. En el ámbito de la salud pública de precisión, esta información se emplea para predecir patrones de riesgo, diseñar estrategias personalizadas y optimizar los recursos. Sahu et al. (2021), tecnologías como la Internet de las Cosas (IoT) y los dispositivos portátiles generan ecosistemas de datos continuos que complementan la información genómica tradicional, permitiendo construir indicadores dinámicos que integran factores biológicos y ambientales.  
+              p.mb-0 La medicina de precisión adapta las intervenciones médicas a las características genéticas, ambientales y sociales de cada persona o población. En el ámbito de la salud pública de precisión, esta información se emplea para predecir patrones de riesgo, diseñar estrategias personalizadas y optimizar los recursos. Sahu et al. (2021), tecnologías como la <em>Internet de las Cosas</em> (IoT) y los dispositivos portátiles generan ecosistemas de datos continuos que complementan la información genómica tradicional, permitiendo construir indicadores dinámicos que integran factores biológicos y ambientales.  
 
         .row.align-items-center.bg-color-sintesis.p-4
           .col-lg-auto.mb-lg-0
@@ -203,7 +203,7 @@
                   p.mb-0 Promover equidad territorial, ampliando el acceso a servicios digitales en regiones apartadas. 
         
         .cajon.color-acento-contenido.p-4.mb-4
-          p.mb-0 Colombia, con iniciativas como <strong>Salud Digital Colombia</strong>, requiere una estrategia articulada que combine IA, Big Data y genómica poblacional bajo un marco ético y de interoperabilidad, avanzando hacia una salud pública de precisión inclusiva y sostenible. 
+          p.mb-0 Colombia, con iniciativas como Salud Digital Colombia, requiere una estrategia articulada que combine IA, <em>Big Data</em> y genómica poblacional bajo un marco ético y de interoperabilidad, avanzando hacia una salud pública de precisión inclusiva y sostenible. 
 
 
 

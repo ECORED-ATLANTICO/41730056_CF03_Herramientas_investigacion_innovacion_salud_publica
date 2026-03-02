@@ -1,8 +1,8 @@
 export default {
   global: {
-    Name: 'Innovación en salud pública: tecnología y propuesta de valor.',
+    Name: 'Innovación en salud pública: tecnología y propuesta de valor',
     Description:
-      'Este componente aborda el uso de tecnologías de la información y la formulación de propuestas de valor para impulsar soluciones innovadoras en salud pública. Se analizan herramientas tecnológicas para el análisis y visualización de datos, y tendencias, destacando su aplicación en la investigación y la toma de decisiones en salud pública',
+      'Este componente aborda el uso de tecnologías de la información y la formulación de propuestas de valor para impulsar soluciones innovadoras en salud pública. Se analizan herramientas tecnológicas para el análisis y visualización de datos, y tendencias, destacando su aplicación en la investigación y la toma de decisiones en salud pública.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
