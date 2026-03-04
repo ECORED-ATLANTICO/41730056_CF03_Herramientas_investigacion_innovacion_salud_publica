@@ -236,7 +236,7 @@
           span Lienzo del <em>Value Proposition Canvas</em>
         img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema1/18.svg", alt="La figura muestra la estructura del lienzo del Value Proposition Canvas, y de cada uno de sus componentes.")
         img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema1/18-1.svg", alt="La figura muestra la estructura del lienzo del Value Proposition Canvas, y de cada uno de sus componentes.")
-        figcaption <strong>Fuente:</strong> Plataforma Strategyzer’s, n.d.
+        figcaption <strong>Fuente:</strong> Plataforma <em>Strategyzer’s</em>, n.d.
   
    
     .align-items-center.justify-content-star.mb-1
@@ -290,17 +290,24 @@
     
     .row.justify-content-center.mb-5
       .col-lg-10
-        div.bg-color-8.tarjeta.p-3
+        div.bg-color-8.tarjeta.p-3.mb-5
           p.mb-0 El formato de una página de <em>Lean Canvas</em> está dividido en nueve bloques que se centran en la solución de problemas y el usuario: 
 
-    .row.justify-content-center.align-items-center.z-2.mb-5
-      .col-lg-10
-        .titulo-sexto.color-acento-contenido.mb-4
-          h5 Figura 2.
-          span <em>Lean Canvas</em>
-        img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema1/25.svg", alt="Problema Los principales problemas o puntos críticos que enfrentan los usuarios. Incluye un subapartado: alternativas existentes. Describe cómo se resuelven estos problemas en la actualidad. Solución Los rasgos o características de la solución propuesta que resuelven los problemas. Propuesta de valor única Un mensaje claro que destaca el beneficio único y la diferenciación del producto o servicio. Segmento de usuario o clientes Los clientes o usuarios objetivo para quienes se está creando el valor. Canales Las vías de comunicación y distribución para llegar a los usuarios. Métricas claves Las métricas que indican el progreso y el éxito. Flujo de ingresos Cómo generará dinero el negocio Estructura de costos Los gastos más importantes para operar, tanto fijos como variables. Ventaja injusta o diferencial Una ventaja competitiva que no se puede copiar fácilmente.")
-        img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema1/25-1.svg", alt="Problema Los principales problemas o puntos críticos que enfrentan los usuarios. Incluye un subapartado: alternativas existentes. Describe cómo se resuelven estos problemas en la actualidad. Solución Los rasgos o características de la solución propuesta que resuelven los problemas. Propuesta de valor única Un mensaje claro que destaca el beneficio único y la diferenciación del producto o servicio. Segmento de usuario o clientes Los clientes o usuarios objetivo para quienes se está creando el valor. Canales Las vías de comunicación y distribución para llegar a los usuarios. Métricas claves Las métricas que indican el progreso y el éxito. Flujo de ingresos Cómo generará dinero el negocio Estructura de costos Los gastos más importantes para operar, tanto fijos como variables. Ventaja injusta o diferencial Una ventaja competitiva que no se puede copiar fácilmente. ")
-        figcaption <strong>Fuente:</strong> Edit.org, n.d.
+        .tarjeta.color-acento-contenido.p-3.mb-5
+          .row.justify-content-around.align-items-center
+            .col-3.col-sm-2.col-lg-1
+              img(src="@/assets/curso/tema1/38.svg")
+            .col
+              .row.justify-content-between.align-items-center
+                .col.mb-3.mb-sm-0.text-white
+                  h3.mb-1 Formato página Lean Canvas
+                  p.text-small Estimado aprendiz para profundizar en el modelo Lean Canvas y comprender claramente su estructura de nueve bloques, le invitamos a descargar este documento. Allí encontrará una explicación práctica que le permitirá identificar problemas, definir soluciones y estructurar su propuesta de valor de manera estratégica.
+                .col-sm-auto
+                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/LeanCanvas.pdf')" target="_blank")
+                    span Descargar
+                    i.fas.fa-file-download
+
+    
     
     div.bg-color-7.tarjeta.p-3.d-inline-block.mb-5
       h3.mb-0.text-white Ejemplo de Lean Canvas en Salud Pública:
@@ -316,7 +323,7 @@
     .row.justify-content-center.align-items-center.z-2.mb-5
       .col-lg-10
         .titulo-sexto.color-acento-contenido.mb-4
-          h5 Figura 3.
+          h5 Figura 2.
           span <em>Lean Canvas</em> aplicado a la detección temprana de diabetes en zonas rurales
         img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema1/27.svg", alt="La figura muestra un Lean Canvas diligenciado de un proyecto de sistema de detección temprana de diabetes rural; en cada uno de sus bloques.")
         img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema1/27-1.svg", alt="La figura muestra un Lean Canvas diligenciado de un proyecto de sistema de detección temprana de diabetes rural; en cada uno de sus bloques.")
