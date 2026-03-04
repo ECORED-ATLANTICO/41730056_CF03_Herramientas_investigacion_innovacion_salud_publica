@@ -73,13 +73,15 @@
             p.mb-0(data-aos="fade-right") Las herramientas para el análisis y visualización de datos desempeñan un papel fundamental en la innovación en salud pública, ya que permiten transformar grandes volúmenes de información en conocimiento útil para la toma de decisiones. A través de métodos analíticos y representaciones visuales claras, estas herramientas facilitan la identificación de patrones, tendencias y brechas en los datos, apoyando la formulación de intervenciones basadas en evidencia. Además, contribuyen a comunicar resultados de manera accesible a diversos actores, fortaleciendo la comprensión, el monitoreo y la evaluación de políticas, programas y proyectos en salud pública.
         
         div.bg-color-7.tarjeta.p-3.d-inline-block.mb-5
-          h3.mb-0.text-white Sistemas de información en salud:
+          h3.mb-0.text-white Sistemas de información en salud
         
         p.mb-5 Los sistemas de información en salud (SIS) son el conjunto de herramientas tecnológicas y procesos para recolectar, procesar, analizar y utilizar datos del sector salud. Su propósito principal es apoyar la toma de decisiones estratégicas, mejorar la calidad de la atención médica, optimizar la gestión de recursos y fortalecer la salud pública mediante la generación de información oportuna y veraz (OPS, Organizacion Panamericana de la salud, s.f.).
     
+    h3 Funciones y características principales
     .bg-full-width.bg-fondo-3.mb-5
       .px-4.px-md-5
         .row.justify-content-center.align-items-center
+          
           .col-lg-8.order-lg-2
             SlyderF(columnas="col-12 col-lg-6").p-4
               .bg-color-white.p-4.h-100.box-shadow
@@ -107,7 +109,7 @@
               img(src='@/assets/curso/tema2/7.png', alt='')
     
     div.bg-color-7.tarjeta.p-3.d-inline-block.mb-5
-      h3.mb-0.text-white Ejemplos de sistemas de información en salud: 
+      h3.mb-0.text-white Ejemplos de sistemas de información en salud
 
     img(src="@/assets/curso/tema2/13.png", alt="Imagen decorativa").mb-5
     
@@ -136,11 +138,11 @@
                 i.fas.fa-circle.fa-xs.mt-2
                 p.mb-0 <strong>Optimizar recursos</strong>: ayuda a racionalizar y optimizar el uso de los recursos disponibles. 
           div(titulo="VESPA (Sistema para la vigilancia de las sustancias psicoactivas)").ms-4
-            .row.mb-3.justify-content-center.align-items-center
-              .col-lg-auto.mb-3.mb-lg-0
+            .row.mb-0.mb-xl-3.justify-content-center.align-items-center
+              .col-xl-auto.mb-3.mb-xl-0
                 figure
                   img(src="@/assets/curso/tema2/15.png")
-              .col-lg
+              .col-xl
                 p.mb-0 Se constituye en la principal fuente de datos en el Distrito Capital sobre dicho evento (SDS, Secretaria Distrital de salud, s.f.). El propósito esencial es la consolidación del sistema en la identificación del abuso e intoxicaciones por sustancias psicoactivas que facilite el monitoreo y seguimiento de los 
             p eventos y provea información oportuna, comparable, válida y confiable dirigida a caracterizar periódicamente a la población que demanda los servicios de atención especializada en adicciones a través de los centros de atención para la drogadicción (CAD)  y servicios de atención de urgencias por eventos relacionados con la intoxicación por sustancias psicoactivas.
           div(titulo="SIVIM (Sistema para la vigilancia de la violencia intrafamiliar, el maltrato infantil y la violencia sexual)").ms-4
@@ -218,7 +220,7 @@
             p.mb-0 Las plataformas de visualización son <em>softwares</em> o aplicaciones que permiten a los usuarios crear representaciones gráficas de datos para hacerlos más fáciles de entender e interpretar. Transforman grandes y complejos conjuntos de datos en gráficos, tablas y paneles interactivos que ayudan a identificar patrones, tendencias y tomar decisiones (Adelusi, 2025).
         
         div.bg-color-7.tarjeta.p-3.d-inline-block.mb-5
-          h3.mb-0.text-white Características principales:
+          h3.mb-0.text-white Características principales
         
         .row.mb-5.justify-content-center.align-items-center
           .col-md-8.col-lg-4.mb-3.mb-lg-0.order-lg-2
@@ -247,6 +249,9 @@
                   img(src="@/assets/curso/tema2/26.png", style="max-width: 420px").mx-auto
                 p.mb-0 Existen herramientas para diferentes usuarios, desde aquellos que necesitan funcionalidades básicas de arrastrar y soltar, hasta desarrolladores que requieren <em>scripting</em> avanzado. 
 
+        h3.mb-5 Ejemplos de uso
+
+
         .row.justify-content-center.mb-5.text-center
           .col-md-6.col-lg-3.mb-3.mb-lg-0
             .tarjeta-avatar
@@ -254,7 +259,7 @@
               .tarjeta.color-acento-botones.bg-color-4
                 .p-4
                   h5 Inteligencia empresarial (<em>Business Intelligence</em>)
-                  p.mb-0 monitorear métricas clave de rendimiento (KPIs).
+                  p.mb-0 Monitorear métricas clave de rendimiento (KPIs).
           .col-md-6.col-lg-3.mb-3.mb-lg-0
             .tarjeta-avatar
               img(src='@/assets/curso/tema2/27.svg' alt='AvatarTop')
@@ -495,7 +500,7 @@
                 p.mb-0 <strong>Implementación</strong>: se crean estructuras, como comités de gobernanza de datos, para coordinar y supervisar las políticas de datos dentro del sector salud. 
     
     div.bg-color-7.tarjeta.p-3.d-inline-block.mb-5
-      h3.mb-0.text-white Relación entre interoperabilidad y gobernanza de datos:
+      h3.mb-0.text-white Relación entre interoperabilidad y gobernanza de datos
     
     .row.justify-content-center
       .col-lg-10
@@ -533,7 +538,7 @@
             p.mb-0 Las buenas prácticas en protección de datos incluyen medidas técnicas como usar contraseñas seguras, cifrar información y actualizar <em>software</em>, y medidas de comportamiento como no compartir datos sin autorización, bloquear el equipo al ausentarse, destruir documentos de forma segura y capacitarse continuamente. La gestión de datos también requiere minimizar la recopilación, limitar el almacenamiento y garantizar la confidencialidad, integridad y disponibilidad de la información. 
     
     div.bg-color-7.tarjeta.p-3.d-inline-block.mb-5
-      h3.mb-0.text-white Medidas técnicas y de seguridad:
+      h3.mb-0.text-white Medidas técnicas y de seguridad
 
     .row.mb-5.justify-content-center.align-items-center
       .col-md-8.col-lg-4.mb-3.mb-lg-0.order-lg-2
@@ -563,7 +568,7 @@
             p.mb-0 Revisar y restringir los permisos de las aplicaciones para limitar el acceso a tus datos. 
     
     div.bg-color-7.tarjeta.p-3.d-inline-block.mb-5
-      h3.mb-0.text-white Medidas de comportamiento y organización:
+      h3.mb-0.text-white Medidas de comportamiento y organización
     
     .row.mb-5.justify-content-center.align-items-center
       .col-md-8.col-lg-3.mb-3.mb-lg-0
@@ -571,15 +576,15 @@
           img(src="@/assets/curso/tema2/48.png", data-aos="zoom-in")
       .col-lg-7
         LineaTiempoD.color-secundario
-          p(numero="1" titulo="Acceso y cesión de datos") No compartir datos personales sin tener seguridad de que el destinatario está autorizado. No enviar información sensible por correos electrónicos o mensajes no seguros.
+          p(numero="A" titulo="Acceso y cesión de datos") No compartir datos personales sin tener seguridad de que el destinatario está autorizado. No enviar información sensible por correos electrónicos o mensajes no seguros.
           
-          p(numero="2" titulo="Entorno de trabajo") No dejar documentos con datos personales a la vista sobre el escritorio ni en la impresora. Al salir del puesto, bloquear la sesión del equipo.
+          p(numero="B" titulo="Entorno de trabajo") No dejar documentos con datos personales a la vista sobre el escritorio ni en la impresora. Al salir del puesto, bloquear la sesión del equipo.
           
-          p(numero="3" titulo="Destrucción segura") No tirar documentos con información personal a la basura común. Utilizar trituradoras o contenedores de destrucción específicos.
+          p(numero="C" titulo="Destrucción segura") No tirar documentos con información personal a la basura común. Utilizar trituradoras o contenedores de destrucción específicos.
           
-          p(numero="4" titulo="Traslado de datos") Evita trasladar información confidencial fuera de la oficina. Si es imprescindible, asegurar de que esté protegida con contraseñas o cifrado.
+          p(numero="D" titulo="Traslado de datos") Evita trasladar información confidencial fuera de la oficina. Si es imprescindible, asegurar de que esté protegida con contraseñas o cifrado.
 
-          p(numero="5" titulo="Capacitación continua") Evita trasladar información confidencial fuera de la oficina. Si es imprescindible, asegurar de que esté protegida con contraseñas o cifrado.
+          p(numero="E" titulo="Capacitación continua") Evita trasladar información confidencial fuera de la oficina. Si es imprescindible, asegurar de que esté protegida con contraseñas o cifrado.
     
 
 

@@ -70,7 +70,7 @@
             figure
               img(src="@/assets/curso/tema3/8.svg", data-aos="zoom-in")
           .col-lg-9.order-lg-1
-            p.mb-0(data-aos="fade-right") Sin embargo, su implementación enfrenta retos estructurales: la fragmentación de los sistemas de información, la falta de marcos éticos y de protección de datos sensibles, y la escasez de talento digital especializado (OPS, Organización Panamericana de la Salud, 2025) A pesar de ello, sus ventajas son evidentes: detección temprana de brotes, mejor asignación de recursos, generación de evidencia local y mayor equidad sanitaria. Como destacan Khedkar y Sahay (2019), la revolución de la información en salud, impulsada por la IA y la analítica predictiva, está haciendo posible sistemas más eficientes, preventivos y equitativos.  
+            p.mb-0(data-aos="fade-right") Sin embargo, su implementación enfrenta retos estructurales: la fragmentación de los sistemas de información, la falta de marcos éticos y de protección de datos sensibles, y la escasez de talento digital especializado (OPS, Organización Panamericana de la Salud, 2025). A pesar de ello, sus ventajas son evidentes: detección temprana de brotes, mejor asignación de recursos, generación de evidencia local y mayor equidad sanitaria. Como destacan Khedkar y Sahay (2019), la revolución de la información en salud, impulsada por la IA y la analítica predictiva, está haciendo posible sistemas más eficientes, preventivos y equitativos.  
 
         .row.align-items-center.bg-color-sintesis.p-4
           .col-lg-auto.mb-lg-0
@@ -160,7 +160,7 @@
         .bloque-texto-b.color-secundario.p-4(data-aos="fade-up").mb-3
           .bloque-texto-b__texto
             i.fas.fa-quote-left
-            p.mb-0 América Latina ha demostrado un compromiso creciente con la innovación en salud pública, combinando salud digital, inteligencia artificial y medicina de precisión. Estos esfuerzos buscan mejorar la equidad, eficiencia y calidad de la atención sanitaria mediante tecnologías adaptadas a los contextos locale.
+            p.mb-0 América Latina ha demostrado un compromiso creciente con la innovación en salud pública, combinando salud digital, inteligencia artificial y medicina de precisión. Estos esfuerzos buscan mejorar la equidad, eficiencia y calidad de la atención sanitaria mediante tecnologías adaptadas a los contextos locales.
             i.fas.fa-quote-right
           .bloque-texto-d__autor 
             .h5.mb-0 (HolonIQ y BID Lab, 2024).

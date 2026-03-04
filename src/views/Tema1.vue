@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 1
-      h1 Elementos de la propuesta de valor y pitch para proyectos innovadores en salud pública
+      h1 Elementos de la propuesta de valor y <em>pitch</em> para proyectos innovadores en salud pública
     
     .bg-full-width.bg-fondo-1
       .px-5
@@ -99,7 +99,7 @@
                 p.mb-0 El lienzo del <em>Value Proposition Canvas</em> se divide en dos bloques principales, que son el bloque del usuario y el bloque del producto. Al desarrollar ambos, podemos validar si nuestra propuesta de valor tendrá éxito, o si por el contrario debemos replantearla.
 
         div.bg-color-7.tarjeta.p-3.d-inline-block.mb-5
-          h3.mb-0.text-white Bloque del usuario o cliente:
+          h3.mb-0.text-white Bloque del usuario o cliente
     
     .bg-fondo-slider.tarjeta.mb-5
       .p-4.p-lg-5
@@ -162,7 +162,7 @@
                     
     
     div.bg-color-7.tarjeta.p-3.d-inline-block.mb-5
-      h3.mb-0.text-white Bloque del Producto:
+      h3.mb-0.text-white Bloque del producto
     
     .row.mb-5.justify-content-center.align-items-center
       .col-md-6.col-lg-2.mb-3.mb-lg-0
@@ -236,7 +236,7 @@
           span Lienzo del <em>Value Proposition Canvas</em>
         img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema1/18.svg", alt="La figura muestra la estructura del lienzo del Value Proposition Canvas, y de cada uno de sus componentes.")
         img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema1/18-1.svg", alt="La figura muestra la estructura del lienzo del Value Proposition Canvas, y de cada uno de sus componentes.")
-        figcaption <strong>Fuente:</strong> Plataforma <em>Strategyzer’s</em>, n.d.
+        figcaption <strong>Nota:</strong> Plataforma <em>Strategyzer’s</em>, n.d.
   
    
     .align-items-center.justify-content-star.mb-1
@@ -310,14 +310,14 @@
     
     
     div.bg-color-7.tarjeta.p-3.d-inline-block.mb-5
-      h3.mb-0.text-white Ejemplo de Lean Canvas en Salud Pública:
+      h3.mb-0.text-white Ejemplo de <em>Lean Canvas</em> en salud pública
     
     .row.mb-5.justify-content-center.align-items-center
       .col-md-6.col-lg-2.mb-3.mb-lg-0
         figure
           img(src="@/assets/curso/tema1/26.png", data-aos="zoom-in")
       .col-lg-10
-        p <b>Tema del Proyecto</b>: sistema de detección temprana de diabetes rural
+        p <b>Tema del proyecto</b>: sistema de detección temprana de diabetes rural
         p.mb-0 <b>Problema</b>: la falta de acceso y el diagnóstico tardío de la Diabetes Mellitus (DM) en comunidades rurales conllevan altas tasas de complicaciones y costos de atención crónica.
 
     .row.justify-content-center.align-items-center.z-2.mb-5
@@ -386,17 +386,17 @@
               img(src="@/assets/curso/tema1/33.png", data-aos="zoom-in")
           .col-lg-8
             LineaTiempoD.color-secundario
-              p(numero="1" titulo="Claridad y concisión") Se debe usar un lenguaje directo y evita la jerga técnica innecesaria. Los mensajes deben ser comprensibles de inmediato.
+              p(numero="A" titulo="Claridad y concisión") Se debe usar un lenguaje directo y evita la jerga técnica innecesaria. Los mensajes deben ser comprensibles de inmediato.
               
-              p(numero="2" titulo="Respaldo con datos") Apoyar la propuesta con hechos, ejemplos o métricas que demuestren la viabilidad del proyecto.
+              p(numero="B" titulo="Respaldo con datos") Apoyar la propuesta con hechos, ejemplos o métricas que demuestren la viabilidad del proyecto.
               
-              p(numero="3" titulo="Pasión y confianza") Transmitir seguridad y entusiasmo por el proyecto para generar credibilidad y conectar emocionalmente con la audiencia.
+              p(numero="C" titulo="Pasión y confianza") Transmitir seguridad y entusiasmo por el proyecto para generar credibilidad y conectar emocionalmente con la audiencia.
               
-              p(numero="4" titulo="Diseño visual (<em>pitch deck</em>)") Si se utiliza una presentación visual, esta debe ser limpia, profesional y fácil de leer, con imágenes de apoyo en lugar de párrafos largos.
+              p(numero="D" titulo="Diseño visual (<em>pitch deck</em>)") Si se utiliza una presentación visual, esta debe ser limpia, profesional y fácil de leer, con imágenes de apoyo en lugar de párrafos largos.
 
-              p(numero="5" titulo="Enfoque en el público") Adaptar el mensaje al interlocutor. Un <em>pitch</em> para inversores será diferente a uno para usuarios.
+              p(numero="E" titulo="Enfoque en el público") Adaptar el mensaje al interlocutor. Un <em>pitch</em> para inversores será diferente a uno para usuarios.
               
-              p(numero="6" titulo="Práctica y ensayo") Un buen <em>pitch</em> se basa en la práctica. Se debe ensayar el discurso varias veces para dominar el tiempo y los puntos clave.
+              p(numero="F" titulo="Práctica y ensayo") Un buen <em>pitch</em> se basa en la práctica. Se debe ensayar el discurso varias veces para dominar el tiempo y los puntos clave.
     
     separador
     
