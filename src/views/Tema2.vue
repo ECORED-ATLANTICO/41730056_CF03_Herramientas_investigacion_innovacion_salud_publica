@@ -143,8 +143,7 @@
                 figure
                   img(src="@/assets/curso/tema2/15.png")
               .col-xl
-                p.mb-0 Se constituye en la principal fuente de datos en el Distrito Capital sobre dicho evento (SDS, Secretaria Distrital de salud, s.f.). El propósito esencial es la consolidación del sistema en la identificación del abuso e intoxicaciones por sustancias psicoactivas que facilite el monitoreo y seguimiento de los 
-            p eventos y provea información oportuna, comparable, válida y confiable dirigida a caracterizar periódicamente a la población que demanda los servicios de atención especializada en adicciones a través de los centros de atención para la drogadicción (CAD)  y servicios de atención de urgencias por eventos relacionados con la intoxicación por sustancias psicoactivas.
+                p.mb-0 Se constituye en la principal fuente de datos en el Distrito Capital sobre dicho evento (SDS, Secretaria Distrital de salud, s.f.). El propósito esencial es la consolidación del sistema en la identificación del abuso e intoxicaciones por sustancias psicoactivas que facilite el monitoreo y seguimiento de los eventos y provea información oportuna, comparable, válida y confiable dirigida a caracterizar periódicamente a la población que demanda los servicios de atención especializada en adicciones a través de los centros de atención para la drogadicción (CAD)  y servicios de atención de urgencias por eventos relacionados con la intoxicación por sustancias psicoactivas.
           div(titulo="SIVIM (Sistema para la vigilancia de la violencia intrafamiliar, el maltrato infantil y la violencia sexual)").ms-4
             .row.mb-3.justify-content-center.align-items-center
               .col-lg-auto.mb-3.mb-lg-0

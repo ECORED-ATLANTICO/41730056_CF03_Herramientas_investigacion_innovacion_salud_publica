@@ -37,7 +37,7 @@
             figure
               img(src="@/assets/curso/tema1/4.png", data-aos="zoom-in")
           .col-lg-8
-            p <b>Propuesta de valor (PV):</b> Es la promesa de valor que una organización o proyecto ofrece a sus usuarios o clientes (en este caso, la población, los profesionales de la salud, o los financiadores), en esta siempre es necesario priorizar los beneficios, y luego las características. 
+            p <b>Propuesta de valor (PV):</b> es la promesa de valor que una organización o proyecto ofrece a sus usuarios o clientes (en este caso, la población, los profesionales de la salud, o los financiadores), en esta siempre es necesario priorizar los beneficios, y luego las características. 
             .row.align-items-center.bg-color-1.p-4
               .col-lg-auto.mb-3.mb-lg-0
                 img.d-lg-flex.d-none(src="@/assets/curso/tema1/3.svg").mx-auto
