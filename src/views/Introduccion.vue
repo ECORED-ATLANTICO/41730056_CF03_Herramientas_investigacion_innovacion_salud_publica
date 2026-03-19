@@ -15,7 +15,7 @@
             figure
               img(src="@/assets/curso/intro/1.png", data-aos="zoom-in")
           .col-lg-8
-            p Este componente formativo aborda la integración estratégica de la propuesta de valor, las tecnologías de la información y la comuniación (TIC) y las tendencias emergentes en salud digital para diseñar soluciones innovadoras frente a los retos de la salud pública.
+            p Este componente formativo aborda la integración estratégica de la propuesta de valor, las tecnologías de la información y la comunicación (TIC) y las tendencias emergentes en salud digital para diseñar soluciones innovadoras frente a los retos de la salud pública.
             .row.align-items-center.bg-color-3.p-4
               .col-lg-auto.mb-3.mb-lg-0
                 img.d-lg-flex.d-none(src="@/assets/curso/intro/2.svg").mx-auto
@@ -38,8 +38,9 @@
     
     figure.mb-5
       .video.mb-2
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/istBGg0ih2U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/FOlBvWPGPKM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       figcaption.text-bold Video: Innovación en salud pública: tecnología y propuesta de valor
+
 
 </template>
 

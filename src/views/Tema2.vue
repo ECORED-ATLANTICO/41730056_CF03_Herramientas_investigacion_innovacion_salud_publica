@@ -42,7 +42,7 @@
           .col-lg-auto.mb-lg-0
             img.d-lg-flex.d-none(src="@/assets/curso/tema2/4.svg", style="max-width: 90px").mx-auto
           .col-lg
-            p.mb-0 La tecnología influye en muchas etapas distintas de la toma de decisiones. Por ejemplo, influye en el momento de obtener información, ya que las personas accedemos constantemente a motores de búsqueda como <em>Google</em>, o <em>Wikipedia</em>; y esta información obtenida influye en los siguientes pasos hasta finalmente hacer una elección. Nos ayuda a filtrar, analizar y procesar la información, así como a encontrar alternativas y evaluarlas, ya sea de forma consciente o inconsciente.
+            p.mb-0 La tecnología influye en muchas etapas distintas de la toma de decisiones. Por ejemplo, influye en el momento de obtener información, ya que las personas accedemos constantemente a motores de búsqueda como <em>Google</em> o <em>Wikipedia</em>; y esta información obtenida influye en los siguientes pasos hasta finalmente hacer una elección. Nos ayuda a filtrar, analizar y procesar la información, así como a encontrar alternativas y evaluarlas, ya sea de forma consciente o inconsciente.
     
     p Las ventajas del uso de las TIC para la toma de decisiones las podríamos desglosar de la siguiente manera:  
 
@@ -75,7 +75,7 @@
         div.bg-color-7.tarjeta.p-3.d-inline-block.mb-5
           h3.mb-0.text-white Sistemas de información en salud
         
-        p.mb-5 Los sistemas de información en salud (SIS) son el conjunto de herramientas tecnológicas y procesos para recolectar, procesar, analizar y utilizar datos del sector salud. Su propósito principal es apoyar la toma de decisiones estratégicas, mejorar la calidad de la atención médica, optimizar la gestión de recursos y fortalecer la salud pública mediante la generación de información oportuna y veraz (OPS, Organizacion Panamericana de la salud, s.f.).
+        p.mb-5 Los sistemas de información en salud (SIS) son el conjunto de herramientas tecnológicas y procesos para recolectar, procesar, analizar y utilizar datos del sector salud. Su propósito principal es apoyar la toma de decisiones estratégicas, mejorar la calidad de la atención médica, optimizar la gestión de recursos y fortalecer la salud pública mediante la generación de información oportuna y veraz (OPS, Organización Panamericana de la Salud, s.f.).
     
     h3 Funciones y características principales
     .bg-full-width.bg-fondo-3.mb-5
@@ -122,7 +122,7 @@
                 figure
                   img(src="@/assets/curso/tema2/14.png")
               .col-lg
-                p.mb-0 Es el Sistema Nacional de Vigilancia en Salud Pública (INS, s.f.), (SDS, Secretaria distrital de salud, s.f.), una infraestructura de información que recopila y analiza datos sobre eventos de salud para guiar la toma de decisiones en salud pública. Su objetivo es proveer información oportuna sobre la dinámica de eventos que afectan a la población colombiana, como enfermedades infecciosas y factores de riesgo, con el fin de orientar políticas, planificar intervenciones y optimizar recursos para proteger la salud individual y colectiva. 
+                p.mb-0 Es el Sistema Nacional de Vigilancia en Salud Pública (INS, s.f.), (SDS, Secretaria Distrital de Salud, s.f.), una infraestructura de información que recopila y analiza datos sobre eventos de salud para guiar la toma de decisiones en salud pública. Su objetivo es proveer información oportuna sobre la dinámica de eventos que afectan a la población colombiana, como enfermedades infecciosas y factores de riesgo, con el fin de orientar políticas, planificar intervenciones y optimizar recursos para proteger la salud individual y colectiva. 
             h4 Funciones principales:
             ul.lista-ul--color.ms-3
               li.mb-3.d-flex
@@ -143,14 +143,14 @@
                 figure
                   img(src="@/assets/curso/tema2/15.png")
               .col-xl
-                p.mb-0 Se constituye en la principal fuente de datos en el Distrito Capital sobre dicho evento (SDS, Secretaria Distrital de salud, s.f.). El propósito esencial es la consolidación del sistema en la identificación del abuso e intoxicaciones por sustancias psicoactivas que facilite el monitoreo y seguimiento de los eventos y provea información oportuna, comparable, válida y confiable dirigida a caracterizar periódicamente a la población que demanda los servicios de atención especializada en adicciones a través de los centros de atención para la drogadicción (CAD)  y servicios de atención de urgencias por eventos relacionados con la intoxicación por sustancias psicoactivas.
+                p.mb-0 Se constituye en la principal fuente de datos en el Distrito Capital sobre dicho evento (SDS, Secretaria Distrital de Salud, s.f.). El propósito esencial es la consolidación del sistema en la identificación del abuso e intoxicaciones por sustancias psicoactivas que facilite el monitoreo y seguimiento de los eventos y provea información oportuna, comparable, válida y confiable dirigida a caracterizar periódicamente a la población que demanda los servicios de atención especializada en adicciones a través de los centros de atención para la drogadicción (CAD)  y servicios de atención de urgencias por eventos relacionados con la intoxicación por sustancias psicoactivas.
           div(titulo="SIVIM (Sistema para la vigilancia de la violencia intrafamiliar, el maltrato infantil y la violencia sexual)").ms-4
             .row.mb-3.justify-content-center.align-items-center
               .col-lg-auto.mb-3.mb-lg-0
                 figure
                   img(src="@/assets/curso/tema2/16.png")
               .col-lg
-                p.mb-0 El sistema de vigilancia epidemiológica de la violencia intrafamiliar, el maltrato infantil y la violencia sexual, SIVIM se constituye en la principal fuente de datos en el Distrito Capital sobre dichos eventos (SDS, Secretaria distrital de salud, s.f.). De esta manera, el mantenimiento de unidades primarias generadoras del dato, de las unidades informadoras del sistema enunciado, así como el seguimiento de los casos de violencia intrafamiliar, maltrato infantil y violencia sexual, con énfasis en abuso sexual y casos en riesgo de fatalidad es a su vez el quehacer esencial de para su consolidación.  
+                p.mb-0 El sistema de vigilancia epidemiológica de la violencia intrafamiliar, el maltrato infantil y la violencia sexual, SIVIM se constituye en la principal fuente de datos en el Distrito Capital sobre dichos eventos (SDS, Secretaria Distrital de Salud, s.f.). De esta manera, el mantenimiento de unidades primarias generadoras del dato, de las unidades informadoras del sistema enunciado, así como el seguimiento de los casos de violencia intrafamiliar, maltrato infantil y violencia sexual, con énfasis en abuso sexual y casos en riesgo de fatalidad es a su vez el quehacer esencial  para su consolidación.  
             .cajon.color-primario.bg-color-4.p-4.mb-4
               p.mb-0 En este sentido se trata de desarrollar un proceso orientado a asegurar la notificación (inmediata y periódica) al Área de Vigilancia en Salud Pública de “casos identificados de violencia intrafamiliar, maltrato infantil y violencia sexual”, así como su canalización y seguimiento, con el propósito de facilitar su atención integral oportuna y la restitución de derechos de las víctimas. 
           div(titulo="LCE: Sistema para la vigilancia de lesiones de causa externa").ms-4
@@ -159,7 +159,7 @@
                 figure
                   img(src="@/assets/curso/tema2/17.png")
               .col-lg
-                p.mb-0 Conjunto de acciones para recopilar, analizar e interpretar datos sobre daños a la salud intencionales y no intencionales, como accidentes, agresiones y envenenamientos, con el fin de implementar medidas de prevención y control. Es un sistema crucial para entender la carga de enfermedad, planificar intervenciones de salud pública y reducir los costos asociados a estas lesiones  (SDS, Secretaria distrital de salud, s.f.).
+                p.mb-0 Conjunto de acciones para recopilar, analizar e interpretar datos sobre daños a la salud intencionales y no intencionales, como accidentes, agresiones y envenenamientos, con el fin de implementar medidas de prevención y control. Es un sistema crucial para entender la carga de enfermedad, planificar intervenciones de salud pública y reducir los costos asociados a estas lesiones  (SDS, Secretaria Distrital de Salud, s.f.).
             h4 Características principales del sistema LCE: 
             ul.lista-ul--color.ms-3
               li.mb-3.d-flex
@@ -199,7 +199,7 @@
                 figure
                   img(src="@/assets/curso/tema2/19.png")
               .col-lg
-                p.mb-0 Está definido como el conjunto de procesos dinámicos e integrales interrelacionados para la recopilación, análisis, interpretación, divulgación y evaluación oportuna de información de la conducta suicida en Bogotá D.C (SDS, Secretaria Distrital de salud, s.f.). En ese sentido, desde este subsistema se cuenta con un proceso que incluye la notificación por parte de las unidades primarias generadoras del dato (UPGD) o unidades informadoras (UI) quienes la remiten a localidad de la Subred que les compete, posteriormente se realiza la investigación epidemiológica de campo que permite realizar la valoración del riesgo e intervención individual y familiar con el objetivo de mitigar el riesgo de reincidencia y canalización sectorial e intersectorial y monitoreo según corresponda.
+                p.mb-0 Está definido como el conjunto de procesos dinámicos e integrales interrelacionados para la recopilación, análisis, interpretación, divulgación y evaluación oportuna de información de la conducta suicida en Bogotá D.C (SDS, Secretaria Distrital de Salud, s.f.). En ese sentido, desde este subsistema se cuenta con un proceso que incluye la notificación por parte de las unidades primarias generadoras del dato (UPGD) o unidades informadoras (UI) quienes la remiten a localidad de la Subred que les compete, posteriormente se realiza la investigación epidemiológica de campo que permite realizar la valoración del riesgo e intervención individual y familiar con el objetivo de mitigar el riesgo de reincidencia y canalización sectorial e intersectorial y monitoreo según corresponda.
             p De la misma manera, ante el análisis del comportamiento inusual del evento se emiten alertas epidemiológicas con el fin de determinar la focalización de las acciones y atención en los casos individuales y colectivos notificados. 
             .cajon.color-primario.bg-color-4.p-4.mb-4
               p.mb-0 Actualmente, las conductas suicidas que son objeto de la vigilancia son: ideación suicida, amenaza suicida e intento de suicidio; así mismo la muerte por suicidio es captada por el SISVECOS, sin embargo, es el Instituto Nacional de Medicina Legal y Ciencias Forenses (INMLCF), la fuente de información oficial para este evento, tanto a nivel Distrital como Nacional.
@@ -416,7 +416,7 @@
                 figure
                   img(src="@/assets/curso/tema2/34.png")
               .col-lg
-                p.mb-0  Es una de las plataformas líderes en <em>Business Intelligence</em> (BI) y análisis de datos que proporciona a las organizaciones las herramientas necesarias para explorar, visualizar y analizar sus datos de manera efectiva. se Enfoca en el modelado de datos asociativo para análisis complejos. 
+                p.mb-0  Es una de las plataformas líderes en <em>Business Intelligence</em> (BI) y análisis de datos que proporciona a las organizaciones las herramientas necesarias para explorar, visualizar y analizar sus datos de manera efectiva. Se enfoca en el modelado de datos asociativo para análisis complejos. 
             h4 Características: 
             p Qlik es conocido por su enfoque en la asociatividad de datos, lo que permite a los usuarios explorar datos de manera intuitiva. Ofrece productos como <em>QlikView</em> y <em>Qlik Sense</em> para visualización y análisis de datos. 
             h5 Ventajas

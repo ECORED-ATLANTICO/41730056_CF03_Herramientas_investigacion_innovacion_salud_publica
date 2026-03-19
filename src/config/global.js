@@ -2,7 +2,7 @@ export default {
   global: {
     Name: 'Innovación en salud pública: tecnología y propuesta de valor',
     Description:
-      'Este componente aborda el uso de tecnologías de la información y la formulación de propuestas de valor para impulsar soluciones innovadoras en salud pública. Se analizan herramientas tecnológicas para el análisis y visualización de datos, y tendencias, destacando su aplicación en la investigación y la toma de decisiones en salud pública.',
+      'Este componente aborda el uso de tecnologías de la información y la formulación de propuestas de valor para impulsar soluciones innovadoras en salud pública. Se analizan herramientas tecnológicas para el análisis y visualización de datos y tendencias, destacando su aplicación en la investigación y la toma de decisiones en salud pública.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -272,7 +272,7 @@ export default {
     },
     {
       referencia:
-        'INS. (s.f.). Instituto nacional de salud. <em>Portal Sivigila 4.0</em>',
+        'INS. (s.f.). Instituto Nacional de Salud. <em>Portal Sivigila 4.0</em>',
       link: 'https://portalsivigila.ins.gov.co/',
     },
     {
@@ -334,7 +334,7 @@ export default {
     },
     {
       referencia:
-        'SDS. (s.f.). Secretaria distrital de salud. <em>SIVIGILA</em>.',
+        'SDS. (s.f.). Secretaria Distrital de Salud. <em>SIVIGILA</em>.',
       link: 'https://sivigila.saludcapital.gov.co/sivigiladc/Login.aspx',
     },
     {
@@ -368,42 +368,42 @@ export default {
           nombre: 'Leonor Cristina Cañón Uribe',
           cargo: 'Profesional especializado',
           centro:
-            'Subdirección de Innovación en salud pública - Dirección de Investigación-Instituto Nacional de Salud',
+            'Subdirección de Innovación en Salud Pública - Dirección de Investigación-Instituto Nacional de Salud',
         },
         {
           nombre: 'Angelica Roció Borbón Orjuela',
           cargo: 'Profesional especializado',
           centro:
-            'Subdirección de Innovación en salud pública - Dirección de Investigación-Instituto Nacional de Salud',
+            'Subdirección de Innovación en Salud Pública - Dirección de Investigación-Instituto Nacional de Salud',
         },
         {
           nombre: 'María Luz Gunturiz Albarracín',
           cargo: 'Profesional especializado',
           centro:
-            'Subdirección de Innovación en salud pública - Dirección de Investigación-Instituto Nacional de Salud',
+            'Subdirección de Innovación en Salud Pública - Dirección de Investigación-Instituto Nacional de Salud',
         },
         {
           nombre: 'Angela Navas Cáceres',
           cargo: 'Experta Técnica',
           centro:
-            'Centro de Formación de Talento humano en Salud- Regional Distrito Capital',
+            'Centro de Formación de Talento Humano en Salud - Regional Distrito Capital',
         },
         {
           nombre: 'Gina Carol Villate Calderón',
           cargo: 'Experta Técnica',
           centro:
-            'Centro de Formación de Talento humano en Salud - Regional Distrito Capital',
+            'Centro de Formación de Talento Humano en Salud - Regional Distrito Capital',
         },
         {
           nombre: 'Eliana Milena Buitrago Umaña',
           cargo: 'Asesora Pedagógica',
           centro:
-            'Centro de Formación de Talento humano en Salud- Regional Distrito Capital',
+            'Centro de Formación de Talento Humano en Salud - Regional Distrito Capital',
         },
         {
           nombre: 'Jair Enrique Coll Gallardo',
           cargo: 'Evaluador instruccional',
-          centro: 'Centro de Comercio y Servicios -Regional Atlántico',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
       ],
     },

@@ -17,10 +17,10 @@ export default {
   },
   data: () => ({
     cuestionario: {
-      tema: 'Microcontroladores y sensores',
+      tema: 'Innovación en salud pública: tecnología y propuesta de valor.',
       titulo: 'Cuestionario',
       introduccion:
-        '<b> Objetivo:</b> evaluar la comprensión y el uso adecuado de las herramientas básicas en la ventana <em>Board</em> del <em>software</em> EAGLE.',
+        '<b> Objetivo:</b> identificar el grado de apropiación de los contenidos del Componente Formativo 3',
       barajarPreguntas: true,
       titulo_aprobado: '¡BUEN TRABAJO!.',
       titulo_reprobado: 'VUELVA A INTENTARLO.',
@@ -62,7 +62,7 @@ export default {
           texto:
             'Diseñar una solución que permita al usuario realizar sus tareas de manera más eficiente, reduciendo molestias y frustraciones, y que además le aporte beneficios, mejoras o ganancias significativas. Esta acción forma parte de la herramienta:',
           imagen: require('@/assets/actividad/imagen2.png'),
-          barajarRespuestas: true,
+          barajarRespuestas: false,
           opciones: [
             {
               id: 'a',
@@ -81,7 +81,7 @@ export default {
             },
             {
               id: 'd',
-              texto: 'A y b son correctas',
+              texto: 'Todas las anteriores',
               esCorrecta: false,
             },
           ],
