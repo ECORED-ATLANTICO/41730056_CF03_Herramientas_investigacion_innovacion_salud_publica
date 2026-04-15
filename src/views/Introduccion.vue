@@ -39,8 +39,8 @@
     figure.mb-5
       .video.mb-2
         iframe(width="560" height="315" src="https://www.youtube.com/embed/FOlBvWPGPKM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption.text-bold Video: Innovación en salud pública: tecnología y propuesta de valor
-
+      figcaption Video: innovación en salud pública: tecnología y propuesta de valor
+ 
 
 </template>
 
