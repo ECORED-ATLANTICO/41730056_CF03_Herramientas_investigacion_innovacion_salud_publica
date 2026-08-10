@@ -371,7 +371,7 @@ export default {
             'Subdirección de Innovación en Salud Pública - Dirección de Investigación-Instituto Nacional de Salud',
         },
         {
-          nombre: 'Angelica Roció Borbón Orjuela',
+          nombre: 'Angelica Rocío Borbón Orjuela',
           cargo: 'Profesional especializado',
           centro:
             'Subdirección de Innovación en Salud Pública - Dirección de Investigación-Instituto Nacional de Salud',
